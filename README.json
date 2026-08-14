@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "WebAssembly",
-            "last_commit": "2026-08-13T01:14:03Z",
+            "last_commit": "2026-08-14T00:10:56Z",
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8596
+            "stars": 8598
           }
         },
         {
@@ -172,10 +172,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T11:59:26Z",
+            "last_commit": "2026-08-14T06:47:07Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20950
+            "stars": 20951
           }
         },
         {
@@ -186,10 +186,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T22:57:06Z",
+            "last_commit": "2026-08-13T23:42:12Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18509
+            "stars": 18511
           }
         },
         {
@@ -200,7 +200,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T09:27:19Z",
+            "last_commit": "2026-08-14T11:59:39Z",
             "owner": "WasmEdge",
             "repo": "WasmEdge",
             "stars": 10771
@@ -214,10 +214,10 @@
           "repo_info": {
             "archived": false,
             "language": "WebAssembly",
-            "last_commit": "2026-08-13T01:14:03Z",
+            "last_commit": "2026-08-14T00:10:56Z",
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8596
+            "stars": 8598
           }
         },
         {
@@ -228,7 +228,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T05:46:36Z",
+            "last_commit": "2026-08-13T15:13:38Z",
             "owner": "WebAssembly",
             "repo": "wabt",
             "stars": 8097
@@ -256,7 +256,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T10:16:13Z",
+            "last_commit": "2026-08-14T10:57:52Z",
             "owner": "wasm-micro-runtime",
             "repo": "wasm-micro-runtime",
             "stars": 6062
@@ -273,7 +273,7 @@
             "last_commit": "2026-07-16T20:41:41Z",
             "owner": "extism",
             "repo": "extism",
-            "stars": 5714
+            "stars": 5718
           }
         },
         {
@@ -455,7 +455,7 @@
             "last_commit": "2019-04-16T02:43:06Z",
             "owner": "kanaka",
             "repo": "warpy",
-            "stars": 66
+            "stars": 67
           }
         },
         {
@@ -508,7 +508,7 @@
             "last_commit": "2026-08-10T23:32:55Z",
             "owner": "yewstack",
             "repo": "yew",
-            "stars": 32783
+            "stars": 32782
           }
         },
         {
@@ -522,7 +522,7 @@
             "last_commit": "2026-08-10T15:03:06Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11101
+            "stars": 11108
           }
         },
         {
@@ -598,7 +598,7 @@
             "last_commit": "2026-06-16T19:27:27Z",
             "owner": "kripken",
             "repo": "ammo.js",
-            "stars": 4551
+            "stars": 4552
           }
         },
         {
@@ -739,7 +739,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-13T11:16:33Z",
+            "last_commit": "2026-08-14T10:49:49Z",
             "owner": "unoplatform",
             "repo": "uno",
             "stars": 10010
@@ -756,7 +756,7 @@
             "last_commit": "2022-12-07T19:46:33Z",
             "owner": "praeclarum",
             "repo": "Ooui",
-            "stars": 1622
+            "stars": 1621
           }
         }
       ],
@@ -832,7 +832,7 @@
             "last_commit": "2026-02-23T17:27:14Z",
             "owner": "hullarb",
             "repo": "ssheasy",
-            "stars": 409
+            "stars": 410
           }
         },
         {
@@ -1116,7 +1116,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T08:34:39Z",
+            "last_commit": "2026-08-14T02:19:58Z",
             "owner": "pyodide",
             "repo": "pyodide",
             "stars": 14786
@@ -1150,10 +1150,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-12T21:42:33Z",
+            "last_commit": "2026-08-14T07:50:19Z",
             "owner": "rust-unofficial",
             "repo": "awesome-rust",
-            "stars": 58814
+            "stars": 58830
           }
         },
         {
@@ -1164,10 +1164,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T00:16:57Z",
+            "last_commit": "2026-08-14T00:17:26Z",
             "owner": "ruffle-rs",
             "repo": "ruffle",
-            "stars": 18417
+            "stars": 18422
           }
         },
         {
@@ -1299,7 +1299,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T05:46:36Z",
+            "last_commit": "2026-08-13T15:13:38Z",
             "owner": "WebAssembly",
             "repo": "wabt",
             "stars": 8097
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T12:08:38.721Z",
+    "last_updated": "2026-08-14T12:06:45.743Z",
     "original_repository": "mbasso/awesome-wasm",
     "original_repository_sha": "0424b220ca668cb9a1c8ce99ff4ab9ff55625457",
     "enhanced_repository": "enhansome/enhansome-wasm",

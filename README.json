@@ -27,7 +27,7 @@
             "archived": false,
             "id": 136505169,
             "language": "Go",
-            "last_commit": "2026-08-19T09:22:14Z",
+            "last_commit": "2026-08-19T12:27:31Z",
             "owner": "tinygo-org",
             "repo": "tinygo",
             "stars": 17655
@@ -202,7 +202,7 @@
             "last_commit": "2026-08-18T17:54:47Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18543
+            "stars": 18544
           }
         },
         {
@@ -214,7 +214,7 @@
             "archived": false,
             "id": 224908244,
             "language": "C++",
-            "last_commit": "2026-08-19T11:13:16Z",
+            "last_commit": "2026-08-19T12:42:29Z",
             "owner": "WasmEdge",
             "repo": "WasmEdge",
             "stars": 10773
@@ -259,10 +259,10 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-19T11:49:15Z",
+            "last_commit": "2026-08-19T12:14:50Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7983
+            "stars": 7984
           }
         },
         {
@@ -409,7 +409,7 @@
             "archived": false,
             "id": 573640699,
             "language": "OCaml",
-            "last_commit": "2026-08-17T23:48:15Z",
+            "last_commit": "2026-08-19T12:39:50Z",
             "owner": "OCamlPro",
             "repo": "owi",
             "stars": 323
@@ -790,7 +790,7 @@
                 "archived": false,
                 "id": 132453438,
                 "language": "C#",
-                "last_commit": "2026-08-19T11:35:42Z",
+                "last_commit": "2026-08-19T12:22:32Z",
                 "owner": "unoplatform",
                 "repo": "uno",
                 "stars": 10015
@@ -1405,7 +1405,7 @@
                 "archived": false,
                 "id": 573640699,
                 "language": "OCaml",
-                "last_commit": "2026-08-17T23:48:15Z",
+                "last_commit": "2026-08-19T12:39:50Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
                 "stars": 323
@@ -1695,7 +1695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:49:46.229Z",
+    "last_updated": "2026-08-19T12:57:03.165Z",
     "original_repository": "mbasso/awesome-wasm",
     "original_repository_id": 89355243,
     "original_repository_sha": "0424b220ca668cb9a1c8ce99ff4ab9ff55625457",

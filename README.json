@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105138356,
             "language": "WebAssembly",
             "last_commit": "2026-07-22T02:56:30Z",
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 17989
+            "stars": 17990
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136505169,
             "language": "Go",
-            "last_commit": "2026-08-16T13:45:06Z",
+            "last_commit": "2026-08-19T09:22:14Z",
             "owner": "tinygo-org",
             "repo": "tinygo",
-            "stars": 17653
+            "stars": 17655
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45208608,
             "language": "WebAssembly",
-            "last_commit": "2026-08-18T05:33:54Z",
+            "last_commit": "2026-08-18T23:06:51Z",
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8599
+            "stars": 8600
           }
         },
         {
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 111412813,
             "language": "Haskell",
             "last_commit": "2022-11-14T00:45:01Z",
             "owner": "tweag",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88152958,
             "language": "Java",
             "last_commit": "2026-08-17T15:06:49Z",
             "owner": "mirkosertic",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41707170,
             "language": "C#",
             "last_commit": "2015-11-02T20:33:49Z",
             "owner": "kg",
@@ -91,7 +97,7 @@
       "title": "Compilers"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -105,6 +111,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 184419299,
                 "language": "Go",
                 "last_commit": "2025-02-01T18:39:34Z",
                 "owner": "wasmerio",
@@ -119,6 +126,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 176312472,
                 "language": "Rust",
                 "last_commit": "2023-09-17T14:48:07Z",
                 "owner": "wasmerio",
@@ -133,6 +141,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 157876278,
                 "language": "PHP",
                 "last_commit": "2024-02-27T08:32:43Z",
                 "owner": "wasmerio",
@@ -147,6 +156,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 181576888,
                 "language": "Rust",
                 "last_commit": "2026-04-22T22:34:32Z",
                 "owner": "wasmerio",
@@ -161,6 +171,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 191937949,
                 "language": "Rust",
                 "last_commit": "2020-12-10T00:53:20Z",
                 "owner": "wasmerio",
@@ -171,11 +182,12 @@
           ],
           "repo_info": {
             "archived": false,
+            "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-18T11:36:10Z",
+            "last_commit": "2026-08-19T09:22:38Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20956
+            "stars": 20957
           }
         },
         {
@@ -185,11 +197,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101767772,
             "language": "Rust",
-            "last_commit": "2026-08-14T19:11:37Z",
+            "last_commit": "2026-08-18T17:54:47Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18534
+            "stars": 18543
           }
         },
         {
@@ -199,11 +212,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224908244,
             "language": "C++",
-            "last_commit": "2026-08-18T07:24:31Z",
+            "last_commit": "2026-08-19T11:13:16Z",
             "owner": "WasmEdge",
             "repo": "WasmEdge",
-            "stars": 10771
+            "stars": 10773
           }
         },
         {
@@ -213,11 +227,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45208608,
             "language": "WebAssembly",
-            "last_commit": "2026-08-18T05:33:54Z",
+            "last_commit": "2026-08-18T23:06:51Z",
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8599
+            "stars": 8600
           }
         },
         {
@@ -227,11 +242,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42467830,
             "language": "C++",
-            "last_commit": "2026-08-18T03:49:17Z",
+            "last_commit": "2026-08-18T21:14:32Z",
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8102
+            "stars": 8103
           }
         },
         {
@@ -241,11 +257,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-18T09:57:05Z",
+            "last_commit": "2026-08-19T11:49:15Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7979
+            "stars": 7983
           }
         },
         {
@@ -255,11 +272,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 184654298,
             "language": "C",
             "last_commit": "2026-08-18T08:55:20Z",
             "owner": "wasm-micro-runtime",
             "repo": "wasm-micro-runtime",
-            "stars": 6069
+            "stars": 6070
           }
         },
         {
@@ -269,11 +287,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 524325124,
             "language": "Rust",
             "last_commit": "2026-07-16T20:41:41Z",
             "owner": "extism",
             "repo": "extism",
-            "stars": 5723
+            "stars": 5725
           }
         },
         {
@@ -283,6 +302,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 81612762,
             "language": "Python",
             "last_commit": "2026-06-24T16:28:22Z",
             "owner": "trailofbits",
@@ -297,6 +317,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41151921,
             "language": "C++",
             "last_commit": "2026-04-05T13:08:49Z",
             "owner": "WAVM",
@@ -311,6 +332,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 80837772,
             "language": "Go",
             "last_commit": "2020-05-11T08:02:55Z",
             "owner": "go-interpreter",
@@ -325,6 +347,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83730537,
             "language": "Kotlin",
             "last_commit": "2023-06-16T18:44:13Z",
             "owner": "cretz",
@@ -339,6 +362,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 146960461,
             "language": "Go",
             "last_commit": "2024-06-10T02:18:42Z",
             "owner": "Xe",
@@ -353,6 +377,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 161721028,
             "language": "WebAssembly",
             "last_commit": "2026-05-21T08:19:59Z",
             "owner": "libraries",
@@ -367,6 +392,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88188506,
             "language": "C",
             "last_commit": "2024-08-09T21:24:05Z",
             "owner": "kanaka",
@@ -381,11 +407,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573640699,
             "language": "OCaml",
             "last_commit": "2026-08-17T23:48:15Z",
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 321
+            "stars": 323
           }
         },
         {
@@ -395,6 +422,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 224892340,
             "language": "C++",
             "last_commit": "2025-11-10T09:47:34Z",
             "owner": "wasmx",
@@ -409,6 +437,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 83365545,
             "language": "Verilog",
             "last_commit": "2017-11-03T06:39:57Z",
             "owner": "piranna",
@@ -423,6 +452,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 161232280,
             "language": "Python",
             "last_commit": "2023-02-17T18:50:24Z",
             "owner": "ethereum",
@@ -437,6 +467,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 158881339,
             "language": "Rust",
             "last_commit": "2021-03-10T15:22:36Z",
             "owner": "embly",
@@ -451,6 +482,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85338887,
             "language": "Python",
             "last_commit": "2019-04-16T02:43:06Z",
             "owner": "kanaka",
@@ -465,6 +497,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140177376,
             "language": "Elixir",
             "last_commit": "2020-01-05T20:01:16Z",
             "owner": "gballet",
@@ -479,6 +512,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 121210696,
             "language": "WebAssembly",
             "last_commit": "2020-03-18T04:56:59Z",
             "owner": "poemm",
@@ -490,854 +524,918 @@
       "title": "Non-Web Embeddings"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Yew - Rust framework for making client web apps",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114466145,
+                "language": "Rust",
+                "last_commit": "2026-08-10T23:32:55Z",
+                "owner": "yewstack",
+                "repo": "yew",
+                "stars": 32784
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Perspective - Streaming pivot visualization via WebAssembly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 109291007,
+                "language": "Rust",
+                "last_commit": "2026-08-10T15:03:06Z",
+                "owner": "perspective-dev",
+                "repo": "perspective",
+                "stars": 11119
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83154886,
+                "language": "C++",
+                "last_commit": "2023-03-03T18:16:02Z",
+                "owner": "mbasso",
+                "repo": "asm-dom",
+                "stars": 2824
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Zwitterion - A web dev server that lets you import anything*",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69318508,
+                "language": "TypeScript",
+                "last_commit": "2026-04-29T05:40:31Z",
+                "owner": "lastmjs",
+                "repo": "zwitterion",
+                "stars": 593
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "asdom - DOM bindings for AssemblyScript, write DOM code just like in TypeScript, but compiled to WebAssembly, by LUME",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 380574729,
+                "language": "TypeScript",
+                "last_commit": "2024-06-16T05:03:50Z",
+                "owner": "lume",
+                "repo": "asdom",
+                "stars": 111
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-vdom-wasm - Webassembly VDOM to create web application using Golang(experimental)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 151051828,
+                "language": "Go",
+                "last_commit": "2020-01-14T15:30:20Z",
+                "owner": "mfrachet",
+                "repo": "go-vdom-wasm",
+                "stars": 83
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web frameworks-libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1815807,
+                "language": "C++",
+                "last_commit": "2026-06-16T19:27:27Z",
+                "owner": "kripken",
+                "repo": "ammo.js",
+                "stars": 4554
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "glas - WebGL in WebAssembly with AssemblyScript, by LUME",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188780913,
+                "language": "TypeScript",
+                "last_commit": "2026-02-05T22:31:44Z",
+                "owner": "lume",
+                "repo": "glas",
+                "stars": 938
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Particle System - an experiment designed to benchmark web technologies: ES6, Emscripten and Web Assembly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 64124006,
+                "language": "JavaScript",
+                "last_commit": "2019-01-09T20:47:12Z",
+                "owner": "leefsmp",
+                "repo": "Particle-System",
+                "stars": 40
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "WebGL"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wasm-loader - WASM webpack loader",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 85236827,
+                "language": "JavaScript",
+                "last_commit": "2021-10-16T18:04:50Z",
+                "owner": "ballercat",
+                "repo": "wasm-loader",
+                "stars": 641
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cpp-wasm-loader - C/C++ to WASM Webpack loader optimized for small bundle sizes",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110828149,
+                "language": "JavaScript",
+                "last_commit": "2021-04-27T08:17:05Z",
+                "owner": "only-cliches",
+                "repo": "cpp-wasm-loader",
+                "stars": 133
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "webpack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89602968,
+                "language": "C",
+                "last_commit": "2019-11-01T20:21:22Z",
+                "owner": "dcodeIO",
+                "repo": "webassembly",
+                "stars": 806
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xwasm - WebAssembly Packager and WASM tooling for modern frontend",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190668960,
+                "language": "JavaScript",
+                "last_commit": "2023-01-04T00:42:48Z",
+                "owner": "raphamorim",
+                "repo": "xwasm",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "go-wasm-cli - Minimalistic cli to create and run (with hot reload) Go application targeting WASM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150019963,
+                "language": "JavaScript",
+                "last_commit": "2022-12-03T23:50:00Z",
+                "owner": "mfrachet",
+                "repo": "go-wasm-cli",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasm-pack - pack up the wasm and publish it to npm!",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 658971320,
+                "language": "Rust",
+                "last_commit": "2023-09-28T19:12:06Z",
+                "owner": "ashleygwilliams",
+                "repo": "wasm-pack",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Node.js"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Uno Platform - An implementation of Microsoft's UWP APIs for iOS/Android/WebAssembly/Linux/macOS, using C#/XAML on top of mono-wasm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132453438,
+                "language": "C#",
+                "last_commit": "2026-08-19T11:35:42Z",
+                "owner": "unoplatform",
+                "repo": "uno",
+                "stars": 10015
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ooui.Wasm - A Xamarin.Forms backend for WebAssembly, using C#/XAML on top of mono-wasm",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94273923,
+                "language": "C#",
+                "last_commit": "2022-12-07T19:46:33Z",
+                "owner": "praeclarum",
+                "repo": "Ooui",
+                "stars": 1621
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": ".NET"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wasm-pdf – Generate PDF files with JavaScript/WASM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 189615490,
+                "language": "Rust",
+                "last_commit": "2023-06-09T09:01:00Z",
+                "owner": "jussiniinikoski",
+                "repo": "wasm-pdf",
+                "stars": 501
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 561588524,
+                "language": "Rust",
+                "last_commit": "2026-07-22T01:10:22Z",
+                "owner": "eunomia-bpf",
+                "repo": "wasm-bpf",
+                "stars": 442
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Argon2 in browser - Argon2 library compiled for browser runtime",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66876222,
+                "language": "JavaScript",
+                "last_commit": "2023-03-24T03:35:15Z",
+                "owner": "antelle",
+                "repo": "argon2-browser",
+                "stars": 438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MXnet.js - ASM.js build of MXNet, deep learning (neural nets and so) library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47372239,
+                "language": "JavaScript",
+                "last_commit": "2020-10-11T17:56:54Z",
+                "owner": "dmlc",
+                "repo": "mxnet.js",
+                "stars": 433
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ssheasy - An online ssh and sft client",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 335071000,
+                "language": "Go",
+                "last_commit": "2026-02-23T17:27:14Z",
+                "owner": "hullarb",
+                "repo": "ssheasy",
+                "stars": 411
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webm-wasm - Create webm videos in JavaScript via WebAssembly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163699219,
+                "language": "C++",
+                "last_commit": "2026-05-30T11:44:24Z",
+                "owner": "GoogleChromeLabs",
+                "repo": "webm-wasm",
+                "stars": 408
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasm - Python WebAssembly decoder & disassembler library",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 73305887,
+                "language": "WebAssembly",
+                "last_commit": "2021-07-20T19:24:14Z",
+                "owner": "athre0z",
+                "repo": "wasm",
+                "stars": 268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 461078535,
+                "language": "JavaScript",
+                "last_commit": "2024-07-11T09:44:45Z",
+                "owner": "originjs",
+                "repo": "crypto-js-wasm",
+                "stars": 249
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasm-init - Work environment and code generator for WebAssembly projects",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86210341,
+                "language": "JavaScript",
+                "last_commit": "2018-04-03T06:33:02Z",
+                "owner": "shamadee",
+                "repo": "wasm-init",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cld3-asm - Wasm based JS binding for Google compact language detector 3",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101367593,
+                "language": "TypeScript",
+                "last_commit": "2023-12-31T20:50:24Z",
+                "owner": "kwonoj",
+                "repo": "cld3-asm",
+                "stars": 82
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 316256044,
+                "language": "Python",
+                "last_commit": "2022-07-20T07:00:37Z",
+                "owner": "sola-st",
+                "repo": "WasmBench",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hunspell-asm - Wasm based JS binding for Hunspell spellchecker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96595473,
+                "language": "TypeScript",
+                "last_commit": "2023-01-14T00:25:15Z",
+                "owner": "kwonoj",
+                "repo": "hunspell-asm",
+                "stars": 74
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Eufa - a high efficient utility functions library written in webassembly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 98246635,
+                "language": "JavaScript",
+                "last_commit": "2018-06-01T05:42:32Z",
+                "owner": "Becavalier",
+                "repo": "Eufa",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasm-bindgen - Interoperating JS and Rust code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139736728,
+                "language": "Rust",
+                "last_commit": "2023-05-15T22:25:42Z",
+                "owner": "alexcrichton",
+                "repo": "wasm-bindgen",
+                "stars": 25
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Others"
+        }
+      ],
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Yew - Rust framework for making client web apps",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AssemblyScript - A subset of TypeScript that compiles to WebAssembly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 105138356,
+                "language": "WebAssembly",
+                "last_commit": "2026-07-22T02:56:30Z",
+                "owner": "AssemblyScript",
+                "repo": "assemblyscript",
+                "stars": 17990
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly (unmaintained)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 76457625,
+                "language": "JavaScript",
+                "last_commit": "2017-09-08T07:16:30Z",
+                "owner": "01alchemist",
+                "repo": "TurboScript",
+                "stars": 494
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly (unmaintained)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 84058066,
+                "language": "TypeScript",
+                "last_commit": "2017-10-23T14:32:01Z",
+                "owner": "MichaReiser",
+                "repo": "speedy.js",
+                "stars": 342
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-10T23:32:55Z",
-            "owner": "yewstack",
-            "repo": "yew",
-            "stars": 32783
-          }
+          "node_type": "group",
+          "title": "JavaScript-family"
         },
         {
-          "node_type": "item",
-          "title": "Perspective - Streaming pivot visualization via WebAssembly",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "wasm_lua - Lua VM running in a WASM environment",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85371779,
+                "language": "C",
+                "last_commit": "2023-11-29T14:27:58Z",
+                "owner": "vvanders",
+                "repo": "wasm_lua",
+                "stars": 803
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasmoon - a high level Lua VM with JS bindings",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 310045541,
+                "language": "TypeScript",
+                "last_commit": "2026-07-29T17:07:35Z",
+                "owner": "ceifa",
+                "repo": "wasmoon",
+                "stars": 692
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-10T15:03:06Z",
-            "owner": "perspective-dev",
-            "repo": "perspective",
-            "stars": 11116
-          }
+          "node_type": "group",
+          "title": "Lua"
         },
         {
-          "node_type": "item",
-          "title": "asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ocamlrun-wasm - OCaml Bytecode Interpreter in WASM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84104547,
+                "language": "Shell",
+                "last_commit": "2017-03-06T18:04:52Z",
+                "owner": "sebmarkbage",
+                "repo": "ocamlrun-wasm",
+                "stars": 257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasicaml - Translate OCaml Bytecode to WASM",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 353391319,
+                "language": "OCaml",
+                "last_commit": "2026-05-04T14:47:43Z",
+                "owner": "remixlabs",
+                "repo": "wasicaml",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wasocaml - OCaml to WasmGC compiler",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 577362009,
+                "language": "OCaml",
+                "last_commit": "2024-10-27T13:06:26Z",
+                "owner": "OCamlPro",
+                "repo": "wasocaml",
+                "stars": 65
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2023-03-03T18:16:02Z",
-            "owner": "mbasso",
-            "repo": "asm-dom",
-            "stars": 2824
-          }
+          "node_type": "group",
+          "title": "OCAML"
         },
         {
-          "node_type": "item",
-          "title": "Zwitterion - A web dev server that lets you import anything*",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Pyodide - The Python scientific stack running in the browser",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122663163,
+                "language": "Python",
+                "last_commit": "2026-08-19T09:53:55Z",
+                "owner": "pyodide",
+                "repo": "pyodide",
+                "stars": 14795
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rocket game - Rocket, written in Rust, compiled to WASM, running in Python",
+              "description": "(using PPCI)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133427585,
+                "language": "WebAssembly",
+                "last_commit": "2023-02-26T15:25:32Z",
+                "owner": "almarklein",
+                "repo": "rocket_rust_py",
+                "stars": 24
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-04-29T05:40:31Z",
-            "owner": "lastmjs",
-            "repo": "zwitterion",
-            "stars": 593
-          }
+          "node_type": "group",
+          "title": "Python"
         },
         {
-          "node_type": "item",
-          "title": "asdom - DOM bindings for AssemblyScript, write DOM code just like in TypeScript, but compiled to WebAssembly, by LUME",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "awesome-rust",
+              "description": "(has scattered references to targeting WASM)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21938243,
+                "language": "Rust",
+                "last_commit": "2026-08-18T15:53:34Z",
+                "owner": "rust-unofficial",
+                "repo": "awesome-rust",
+                "stars": 58896
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ruffle - Adobe Flash Player emulator written in the Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 183483988,
+                "language": "Rust",
+                "last_commit": "2026-08-19T00:43:31Z",
+                "owner": "ruffle-rs",
+                "repo": "ruffle",
+                "stars": 18436
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wasmi - WebAssembly interpreter in pure Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118469706,
+                "language": "Rust",
+                "last_commit": "2026-08-11T21:23:31Z",
+                "owner": "wasmi-labs",
+                "repo": "wasmi",
+                "stars": 2168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "parity-wasm - WebAssembly serialization/deserialization library in pure Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 86597842,
+                "language": "Rust",
+                "last_commit": "2022-10-01T17:07:51Z",
+                "owner": "paritytech",
+                "repo": "parity-wasm",
+                "stars": 395
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2024-06-16T05:03:50Z",
-            "owner": "lume",
-            "repo": "asdom",
-            "stars": 111
-          }
+          "node_type": "group",
+          "title": "Rust"
         },
         {
-          "node_type": "item",
-          "title": "go-vdom-wasm - Webassembly VDOM to create web application using Golang(experimental)",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Walt - Alternative Syntax for WebAssembly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91142264,
+                "language": "JavaScript",
+                "last_commit": "2023-01-02T16:57:45Z",
+                "owner": "ballercat",
+                "repo": "walt",
+                "stars": 4631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wah - a slightly higher-level language superset of webassembly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91038318,
+                "language": "Clojure",
+                "last_commit": "2019-07-28T06:34:53Z",
+                "owner": "tmcw",
+                "repo": "wah",
+                "stars": 159
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "wam - Superset of wast syntax that is more convenient for humans to write directly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156289117,
+                "language": "JavaScript",
+                "last_commit": "2019-08-07T03:10:53Z",
+                "owner": "kanaka",
+                "repo": "wam",
+                "stars": 67
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2020-01-14T15:30:20Z",
-            "owner": "mfrachet",
-            "repo": "go-vdom-wasm",
-            "stars": 83
-          }
+          "node_type": "group",
+          "title": "WASM-like"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Never - statically typed, embeddable functional programming language",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134974042,
+                "language": "C",
+                "last_commit": "2024-05-12T20:45:39Z",
+                "owner": "never-lang",
+                "repo": "never",
+                "stars": 461
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lys - a functional language that compiles to WebAssembly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130402516,
+                "language": "TypeScript",
+                "last_commit": "2025-01-24T14:47:57Z",
+                "owner": "lys-lang",
+                "repo": "lys",
+                "stars": 429
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
         }
       ],
-      "title": "Web frameworks-libraries"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ammo.js - direct port of the Bullet physics engine to JavaScript using Emscripten",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-06-16T19:27:27Z",
-            "owner": "kripken",
-            "repo": "ammo.js",
-            "stars": 4554
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "glas - WebGL in WebAssembly with AssemblyScript, by LUME",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-02-05T22:31:44Z",
-            "owner": "lume",
-            "repo": "glas",
-            "stars": 938
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Particle System - an experiment designed to benchmark web technologies: ES6, Emscripten and Web Assembly",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-01-09T20:47:12Z",
-            "owner": "leefsmp",
-            "repo": "Particle-System",
-            "stars": 40
-          }
-        }
-      ],
-      "title": "WebGL"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wasm-loader - WASM webpack loader",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2021-10-16T18:04:50Z",
-            "owner": "ballercat",
-            "repo": "wasm-loader",
-            "stars": 641
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cpp-wasm-loader - C/C++ to WASM Webpack loader optimized for small bundle sizes",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2021-04-27T08:17:05Z",
-            "owner": "only-cliches",
-            "repo": "cpp-wasm-loader",
-            "stars": 133
-          }
-        }
-      ],
-      "title": "webpack"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2019-11-01T20:21:22Z",
-            "owner": "dcodeIO",
-            "repo": "webassembly",
-            "stars": 806
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xwasm - WebAssembly Packager and WASM tooling for modern frontend",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-04T00:42:48Z",
-            "owner": "raphamorim",
-            "repo": "xwasm",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-wasm-cli - Minimalistic cli to create and run (with hot reload) Go application targeting WASM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2022-12-03T23:50:00Z",
-            "owner": "mfrachet",
-            "repo": "go-wasm-cli",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wasm-pack - pack up the wasm and publish it to npm!",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-09-28T19:12:06Z",
-            "owner": "ashleygwilliams",
-            "repo": "wasm-pack",
-            "stars": 4
-          }
-        }
-      ],
-      "title": "Node.js"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Uno Platform - An implementation of Microsoft's UWP APIs for iOS/Android/WebAssembly/Linux/macOS, using C#/XAML on top of mono-wasm",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-18T10:28:29Z",
-            "owner": "unoplatform",
-            "repo": "uno",
-            "stars": 10011
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ooui.Wasm - A Xamarin.Forms backend for WebAssembly, using C#/XAML on top of mono-wasm",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2022-12-07T19:46:33Z",
-            "owner": "praeclarum",
-            "repo": "Ooui",
-            "stars": 1621
-          }
-        }
-      ],
-      "title": ".NET"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wasm-pdf – Generate PDF files with JavaScript/WASM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2023-06-09T09:01:00Z",
-            "owner": "jussiniinikoski",
-            "repo": "wasm-pdf",
-            "stars": 501
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-22T01:10:22Z",
-            "owner": "eunomia-bpf",
-            "repo": "wasm-bpf",
-            "stars": 442
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Argon2 in browser - Argon2 library compiled for browser runtime",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-03-24T03:35:15Z",
-            "owner": "antelle",
-            "repo": "argon2-browser",
-            "stars": 437
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MXnet.js - ASM.js build of MXNet, deep learning (neural nets and so) library",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2020-10-11T17:56:54Z",
-            "owner": "dmlc",
-            "repo": "mxnet.js",
-            "stars": 433
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ssheasy - An online ssh and sft client",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-02-23T17:27:14Z",
-            "owner": "hullarb",
-            "repo": "ssheasy",
-            "stars": 411
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webm-wasm - Create webm videos in JavaScript via WebAssembly",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-05-30T11:44:24Z",
-            "owner": "GoogleChromeLabs",
-            "repo": "webm-wasm",
-            "stars": 408
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wasm - Python WebAssembly decoder & disassembler library",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "WebAssembly",
-            "last_commit": "2021-07-20T19:24:14Z",
-            "owner": "athre0z",
-            "repo": "wasm",
-            "stars": 268
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2024-07-11T09:44:45Z",
-            "owner": "originjs",
-            "repo": "crypto-js-wasm",
-            "stars": 249
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wasm-init - Work environment and code generator for WebAssembly projects",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2018-04-03T06:33:02Z",
-            "owner": "shamadee",
-            "repo": "wasm-init",
-            "stars": 170
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cld3-asm - Wasm based JS binding for Google compact language detector 3",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-12-31T20:50:24Z",
-            "owner": "kwonoj",
-            "repo": "cld3-asm",
-            "stars": 82
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2022-07-20T07:00:37Z",
-            "owner": "sola-st",
-            "repo": "WasmBench",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hunspell-asm - Wasm based JS binding for Hunspell spellchecker",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2023-01-14T00:25:15Z",
-            "owner": "kwonoj",
-            "repo": "hunspell-asm",
-            "stars": 74
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Eufa - a high efficient utility functions library written in webassembly",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2018-06-01T05:42:32Z",
-            "owner": "Becavalier",
-            "repo": "Eufa",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wasm-bindgen - Interoperating JS and Rust code",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-05-15T22:25:42Z",
-            "owner": "alexcrichton",
-            "repo": "wasm-bindgen",
-            "stars": 25
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "go-web-app – Quickly setup Go + WebAssembly frontend apps",
-          "description": null,
-          "children": []
-        }
-      ],
-      "title": "Others"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Languages"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "AssemblyScript - A subset of TypeScript that compiles to WebAssembly",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WABT - A suite of tools that help working with WASM binary files",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42467830,
+                "language": "C++",
+                "last_commit": "2026-08-18T21:14:32Z",
+                "owner": "WebAssembly",
+                "repo": "wabt",
+                "stars": 8103
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Owi - A WebAssembly toolkit and cross-language bug-finder",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 573640699,
+                "language": "OCaml",
+                "last_commit": "2026-08-17T23:48:15Z",
+                "owner": "OCamlPro",
+                "repo": "owi",
+                "stars": 323
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webassembly-binary-toolkit - The WABT tools installable as an npm package",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95441564,
+                "language": "Shell",
+                "last_commit": "2018-03-04T16:33:14Z",
+                "owner": "mafintosh",
+                "repo": "webassembly-binary-toolkit",
+                "stars": 61
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "WebAssembly",
-            "last_commit": "2026-07-22T02:56:30Z",
-            "owner": "AssemblyScript",
-            "repo": "assemblyscript",
-            "stars": 17989
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly (unmaintained)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "JavaScript",
-            "last_commit": "2017-09-08T07:16:30Z",
-            "owner": "01alchemist",
-            "repo": "TurboScript",
-            "stars": 494
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly (unmaintained)",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2017-10-23T14:32:01Z",
-            "owner": "MichaReiser",
-            "repo": "speedy.js",
-            "stars": 342
-          }
+          "node_type": "group",
+          "title": "Kits"
         }
       ],
-      "title": "JavaScript-family"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "wasm_lua - Lua VM running in a WASM environment",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2023-11-29T14:27:58Z",
-            "owner": "vvanders",
-            "repo": "wasm_lua",
-            "stars": 803
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wasmoon - a high level Lua VM with JS bindings",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-29T17:07:35Z",
-            "owner": "ceifa",
-            "repo": "wasmoon",
-            "stars": 692
-          }
-        }
-      ],
-      "title": "Lua"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ocamlrun-wasm - OCaml Bytecode Interpreter in WASM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2017-03-06T18:04:52Z",
-            "owner": "sebmarkbage",
-            "repo": "ocamlrun-wasm",
-            "stars": 257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wasicaml - Translate OCaml Bytecode to WASM",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-05-04T14:47:43Z",
-            "owner": "remixlabs",
-            "repo": "wasicaml",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Wasocaml - OCaml to WasmGC compiler",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2024-10-27T13:06:26Z",
-            "owner": "OCamlPro",
-            "repo": "wasocaml",
-            "stars": 65
-          }
-        }
-      ],
-      "title": "OCAML"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Pyodide - The Python scientific stack running in the browser",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T10:49:26Z",
-            "owner": "pyodide",
-            "repo": "pyodide",
-            "stars": 14795
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rocket game - Rocket, written in Rust, compiled to WASM, running in Python",
-          "description": "(using PPCI)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "WebAssembly",
-            "last_commit": "2023-02-26T15:25:32Z",
-            "owner": "almarklein",
-            "repo": "rocket_rust_py",
-            "stars": 24
-          }
-        }
-      ],
-      "title": "Python"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "awesome-rust",
-          "description": "(has scattered references to targeting WASM)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T20:30:50Z",
-            "owner": "rust-unofficial",
-            "repo": "awesome-rust",
-            "stars": 58881
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ruffle - Adobe Flash Player emulator written in the Rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T05:53:10Z",
-            "owner": "ruffle-rs",
-            "repo": "ruffle",
-            "stars": 18435
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wasmi - WebAssembly interpreter in pure Rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-11T21:23:31Z",
-            "owner": "wasmi-labs",
-            "repo": "wasmi",
-            "stars": 2168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "parity-wasm - WebAssembly serialization/deserialization library in pure Rust",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-10-01T17:07:51Z",
-            "owner": "paritytech",
-            "repo": "parity-wasm",
-            "stars": 395
-          }
-        }
-      ],
-      "title": "Rust"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Walt - Alternative Syntax for WebAssembly",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2023-01-02T16:57:45Z",
-            "owner": "ballercat",
-            "repo": "walt",
-            "stars": 4631
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wah - a slightly higher-level language superset of webassembly",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Clojure",
-            "last_commit": "2019-07-28T06:34:53Z",
-            "owner": "tmcw",
-            "repo": "wah",
-            "stars": 159
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "wam - Superset of wast syntax that is more convenient for humans to write directly",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2019-08-07T03:10:53Z",
-            "owner": "kanaka",
-            "repo": "wam",
-            "stars": 67
-          }
-        }
-      ],
-      "title": "WASM-like"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Never - statically typed, embeddable functional programming language",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2024-05-12T20:45:39Z",
-            "owner": "never-lang",
-            "repo": "never",
-            "stars": 461
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Lys - a functional language that compiles to WebAssembly",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2025-01-24T14:47:57Z",
-            "owner": "lys-lang",
-            "repo": "lys",
-            "stars": 429
-          }
-        }
-      ],
-      "title": "Other"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "WABT - A suite of tools that help working with WASM binary files",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T03:49:17Z",
-            "owner": "WebAssembly",
-            "repo": "wabt",
-            "stars": 8102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Owi - A WebAssembly toolkit and cross-language bug-finder",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "OCaml",
-            "last_commit": "2026-08-17T23:48:15Z",
-            "owner": "OCamlPro",
-            "repo": "owi",
-            "stars": 321
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webassembly-binary-toolkit - The WABT tools installable as an npm package",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-03-04T16:33:14Z",
-            "owner": "mafintosh",
-            "repo": "webassembly-binary-toolkit",
-            "stars": 61
-          }
-        }
-      ],
-      "title": "Kits"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1346,6 +1444,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118728398,
             "language": "WebAssembly",
             "last_commit": "2023-03-04T02:32:59Z",
             "owner": "torch2424",
@@ -1360,6 +1459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84898164,
             "language": "C++",
             "last_commit": "2017-06-05T05:36:36Z",
             "owner": "shamadee",
@@ -1374,6 +1474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 82829077,
             "language": "WebAssembly",
             "last_commit": "2026-07-08T17:45:30Z",
             "owner": "mdn",
@@ -1388,6 +1489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 515087722,
             "language": "Rust",
             "last_commit": "2025-08-04T18:57:27Z",
             "owner": "raphamorim",
@@ -1402,6 +1504,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 565750987,
             "language": "Rust",
             "last_commit": "2026-08-09T09:15:02Z",
             "owner": "joamag",
@@ -1416,6 +1519,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 114810033,
             "language": "Rust",
             "last_commit": "2023-04-22T07:25:06Z",
             "owner": "jacobdeichert",
@@ -1430,6 +1534,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86191746,
             "language": "TypeScript",
             "last_commit": "2017-04-25T16:20:52Z",
             "owner": "sessamekesh",
@@ -1444,6 +1549,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99500448,
             "language": "JavaScript",
             "last_commit": "2017-11-30T11:01:13Z",
             "owner": "reklatsmasters",
@@ -1458,6 +1564,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 106007862,
             "language": "TypeScript",
             "last_commit": "2017-10-31T06:06:47Z",
             "owner": "ColinEberhardt",
@@ -1472,6 +1579,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136691765,
             "language": "HTML",
             "last_commit": "2022-04-16T06:05:47Z",
             "owner": "lukka",
@@ -1486,6 +1594,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 258704468,
             "language": "Go",
             "last_commit": "2021-03-22T20:48:15Z",
             "owner": "XD-DENG",
@@ -1500,6 +1609,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87951003,
             "language": "C",
             "last_commit": "2017-05-25T10:07:02Z",
             "owner": "bzar",
@@ -1514,6 +1624,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 193788850,
             "language": "Rust",
             "last_commit": "2019-08-11T01:20:11Z",
             "owner": "ragingwind",
@@ -1525,67 +1636,68 @@
       "title": "Examples"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Resources in other languages"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "C/C++面向wasm编程 - 第一本中文开源图书",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C/C++面向wasm编程 - 第一本中文开源图书",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150200518,
+                "language": "C++",
+                "last_commit": "2024-04-17T14:37:31Z",
+                "owner": "3dgen",
+                "repo": "cppwasm-book",
+                "stars": 1400
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebAssembly资料精选 - 中文版",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143668970,
+                "language": "WebAssembly",
+                "last_commit": "2024-10-12T14:06:50Z",
+                "owner": "wasmlang",
+                "repo": "awesome-wasm-zh",
+                "stars": 1034
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebAssembly标准入门 - 第一本中文图书",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 143668970,
+                "language": "WebAssembly",
+                "last_commit": "2024-10-12T14:06:50Z",
+                "owner": "wasmlang",
+                "repo": "awesome-wasm-zh",
+                "stars": 1034
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2024-04-17T14:37:31Z",
-            "owner": "3dgen",
-            "repo": "cppwasm-book",
-            "stars": 1400
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebAssembly资料精选 - 中文版",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "WebAssembly",
-            "last_commit": "2024-10-12T14:06:50Z",
-            "owner": "wasmlang",
-            "repo": "awesome-wasm-zh",
-            "stars": 1034
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebAssembly标准入门 - 第一本中文图书",
-          "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "WebAssembly",
-            "last_commit": "2024-10-12T14:06:50Z",
-            "owner": "wasmlang",
-            "repo": "awesome-wasm-zh",
-            "stars": 1034
-          }
+          "node_type": "group",
+          "title": "Simplified Chinese"
         }
       ],
-      "title": "Simplified Chinese"
-    },
-    {
-      "description": "To the extent possible under law, Matteo Basso has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
+      "title": "Resources in other languages"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:50:32.740Z",
+    "last_updated": "2026-08-19T11:49:46.229Z",
     "original_repository": "mbasso/awesome-wasm",
+    "original_repository_id": 89355243,
     "original_repository_sha": "0424b220ca668cb9a1c8ce99ff4ab9ff55625457",
     "enhanced_repository": "enhansome/enhansome-wasm",
     "enhanced_repository_description": null,

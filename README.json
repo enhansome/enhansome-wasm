@@ -5,6 +5,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Assembleash - WebAssembly and Typescript-like languages playground",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 93946701,
+            "language": "JavaScript",
+            "last_commit": "2026-02-20T12:45:02Z",
+            "owner": "MaxGraey",
+            "repo": "Assembleash",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Online Playground"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uno Platform Bootcamp - single-source WASM & Mobile app tutorial (2019)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209543743,
+            "language": "C#",
+            "last_commit": "2025-10-08T23:34:29Z",
+            "owner": "unoplatform",
+            "repo": "workshops",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "Tutorials"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "AssemblyScript - Definitely not a TypeScript to WebAssembly compiler",
           "description": null,
           "children": [],
@@ -27,7 +69,7 @@
             "archived": false,
             "id": 136505169,
             "language": "Go",
-            "last_commit": "2026-08-24T09:53:27Z",
+            "last_commit": "2026-08-24T13:39:01Z",
             "owner": "tinygo-org",
             "repo": "tinygo",
             "stars": 17667
@@ -184,7 +226,7 @@
             "archived": false,
             "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-24T08:28:08Z",
+            "last_commit": "2026-08-24T13:19:26Z",
             "owner": "wasmerio",
             "repo": "wasmer",
             "stars": 20968
@@ -214,7 +256,7 @@
             "archived": false,
             "id": 224908244,
             "language": "C++",
-            "last_commit": "2026-08-24T05:22:19Z",
+            "last_commit": "2026-08-24T13:22:51Z",
             "owner": "WasmEdge",
             "repo": "WasmEdge",
             "stars": 10780
@@ -262,7 +304,7 @@
             "last_commit": "2026-08-23T09:33:42Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 7994
+            "stars": 7995
           }
         },
         {
@@ -530,6 +572,50 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Voy - A WASM vector similarity search engine written in Rust",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 593957637,
+                "language": "Rust",
+                "last_commit": "2023-09-20T18:14:53Z",
+                "owner": "tantaraio",
+                "repo": "voy",
+                "stars": 1069
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "AI"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mod_wasm - An extension module for the Apache HTTP Server that enables the usage of WebAssembly (Wasm).",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 542489634,
+                "language": "Rust",
+                "last_commit": "2024-05-31T09:08:23Z",
+                "owner": "vmware-labs",
+                "repo": "mod_wasm",
+                "stars": 114
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Apache Server"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Yew - Rust framework for making client web apps",
               "description": null,
               "children": [],
@@ -555,7 +641,7 @@
                 "last_commit": "2026-08-10T15:03:06Z",
                 "owner": "perspective-dev",
                 "repo": "perspective",
-                "stars": 11130
+                "stars": 11131
               }
             },
             {
@@ -622,6 +708,28 @@
           "description": null,
           "node_type": "group",
           "title": "Web frameworks-libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "jq-web - the JSON processing tool jq ported to the web with Emscripten",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 90417462,
+                "language": "JavaScript",
+                "last_commit": "2025-03-19T22:19:15Z",
+                "owner": "fiatjaf",
+                "repo": "jq-web",
+                "stars": 363
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data processing"
         },
         {
           "children": [
@@ -716,6 +824,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "rustify - Rust WebAssembly transform for Browserify",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 112096519,
+                "language": "JavaScript",
+                "last_commit": "2024-12-21T10:12:46Z",
+                "owner": "browserify",
+                "repo": "rustify",
+                "stars": 492
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Browserify"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.",
               "description": null,
               "children": [],
@@ -790,7 +920,7 @@
                 "archived": false,
                 "id": 132453438,
                 "language": "C#",
-                "last_commit": "2026-08-24T11:30:05Z",
+                "last_commit": "2026-08-24T13:33:40Z",
                 "owner": "unoplatform",
                 "repo": "uno",
                 "stars": 10017
@@ -1043,6 +1173,72 @@
           "children": [
             {
               "node_type": "item",
+              "title": "funge.js - A Befunge JIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 572772,
+                "language": "Rust",
+                "last_commit": "2026-08-22T16:35:51Z",
+                "owner": "serprex",
+                "repo": "Befunge",
+                "stars": 21
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Esoteric"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WAForth - Bootstrapping Dynamic Forth Interpreter/Compiler for & in WebAssembly",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133494313,
+                "language": "WebAssembly",
+                "last_commit": "2025-07-15T20:02:27Z",
+                "owner": "remko",
+                "repo": "waforth",
+                "stars": 590
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Forth"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Go - Go programming language WebAssembly support",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23096959,
+                "language": "Go",
+                "last_commit": "2026-08-24T11:09:02Z",
+                "owner": "golang",
+                "repo": "go",
+                "stars": 136202
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Go"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "AssemblyScript - A subset of TypeScript that compiles to WebAssembly",
               "description": null,
               "children": [],
@@ -1194,7 +1390,7 @@
                 "last_commit": "2026-08-22T17:43:58Z",
                 "owner": "pyodide",
                 "repo": "pyodide",
-                "stars": 14798
+                "stars": 14799
               }
             },
             {
@@ -1231,7 +1427,7 @@
                 "last_commit": "2026-08-24T07:28:27Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 58955
+                "stars": 58956
               }
             },
             {
@@ -1246,7 +1442,7 @@
                 "last_commit": "2026-08-24T00:07:50Z",
                 "owner": "ruffle-rs",
                 "repo": "ruffle",
-                "stars": 18447
+                "stars": 18450
               }
             },
             {
@@ -1379,6 +1575,28 @@
     {
       "description": null,
       "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "vim-wasm - WebAssembly filetype support for Vim",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54709302,
+                "language": "Vim Script",
+                "last_commit": "2023-11-25T13:51:59Z",
+                "owner": "rhysd",
+                "repo": "vim-wasm",
+                "stars": 85
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Editor"
+        },
         {
           "children": [
             {
@@ -1639,6 +1857,48 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "WebAssembly Reference Manual",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67356817,
+            "language": null,
+            "last_commit": "2023-01-26T21:48:51Z",
+            "owner": "sunfishcode",
+            "repo": "wasm-reference-manual",
+            "stars": 612
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Bringing the Web up to Speed with WebAssembly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40598815,
+            "language": "WebAssembly",
+            "last_commit": "2026-08-12T19:00:43Z",
+            "owner": "WebAssembly",
+            "repo": "spec",
+            "stars": 3440
+          }
+        }
+      ],
+      "title": "Papers"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "children": [
             {
               "node_type": "item",
@@ -1695,7 +1955,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:53:24.956Z",
+    "last_updated": "2026-08-24T13:50:37.142Z",
     "original_repository": "mbasso/awesome-wasm",
     "original_repository_id": 89355243,
     "original_repository_sha": "0424b220ca668cb9a1c8ce99ff4ab9ff55625457",

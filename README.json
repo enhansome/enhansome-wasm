@@ -16,7 +16,8 @@
             "owner": "MaxGraey",
             "repo": "Assembleash",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         }
       ],
       "title": "Online Playground"
@@ -37,7 +38,8 @@
             "owner": "unoplatform",
             "repo": "workshops",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         }
       ],
       "title": "Tutorials"
@@ -58,7 +60,8 @@
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
             "stars": 17993
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -69,11 +72,12 @@
             "archived": false,
             "id": 136505169,
             "language": "Go",
-            "last_commit": "2026-08-27T20:35:04Z",
+            "last_commit": "2026-08-28T17:48:48Z",
             "owner": "tinygo-org",
             "repo": "tinygo",
-            "stars": 17673
-          }
+            "stars": 17676
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -84,11 +88,12 @@
             "archived": false,
             "id": 45208608,
             "language": "WebAssembly",
-            "last_commit": "2026-08-27T21:00:00Z",
+            "last_commit": "2026-08-28T19:57:42Z",
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8612
-          }
+            "stars": 8614
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -103,7 +108,8 @@
             "owner": "tweag",
             "repo": "asterius",
             "stars": 1948
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -117,8 +123,9 @@
             "last_commit": "2026-08-17T15:06:49Z",
             "owner": "mirkosertic",
             "repo": "Bytecoder",
-            "stars": 946
-          }
+            "stars": 948
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "kg",
             "repo": "ilwasm",
             "stars": 365
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         }
       ],
       "title": "Compilers"
@@ -159,7 +167,8 @@
                 "owner": "wasmerio",
                 "repo": "wasmer-go",
                 "stars": 2948
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "wasmerio",
                 "repo": "wasmer-python",
                 "stars": 2150
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "wasmerio",
                 "repo": "wasmer-php",
                 "stars": 1050
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "wasmerio",
                 "repo": "wasmer-ruby",
                 "stars": 487
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -219,18 +231,20 @@
                 "owner": "wasmerio",
                 "repo": "wasmer-postgres",
                 "stars": 430
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "repo_info": {
             "archived": false,
             "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-27T13:36:47Z",
+            "last_commit": "2026-08-28T21:03:10Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20975
-          }
+            "stars": 20982
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -241,11 +255,12 @@
             "archived": false,
             "id": 101767772,
             "language": "Rust",
-            "last_commit": "2026-08-27T16:50:18Z",
+            "last_commit": "2026-08-28T21:15:53Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18575
-          }
+            "stars": 18578
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -256,11 +271,12 @@
             "archived": false,
             "id": 224908244,
             "language": "C++",
-            "last_commit": "2026-08-27T19:16:32Z",
+            "last_commit": "2026-08-28T19:39:47Z",
             "owner": "WasmEdge",
             "repo": "WasmEdge",
-            "stars": 10790
-          }
+            "stars": 10793
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -271,11 +287,12 @@
             "archived": false,
             "id": 45208608,
             "language": "WebAssembly",
-            "last_commit": "2026-08-27T21:00:00Z",
+            "last_commit": "2026-08-28T19:57:42Z",
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8612
-          }
+            "stars": 8614
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -289,8 +306,9 @@
             "last_commit": "2026-08-27T07:26:02Z",
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8104
-          }
+            "stars": 8105
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -301,11 +319,12 @@
             "archived": false,
             "id": 212152900,
             "language": "C",
-            "last_commit": "2026-08-27T16:56:41Z",
+            "last_commit": "2026-08-28T14:56:31Z",
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8006
-          }
+            "stars": 8007
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -316,11 +335,12 @@
             "archived": false,
             "id": 184654298,
             "language": "C",
-            "last_commit": "2026-08-26T22:46:09Z",
+            "last_commit": "2026-08-28T07:28:23Z",
             "owner": "wasm-micro-runtime",
             "repo": "wasm-micro-runtime",
-            "stars": 6076
-          }
+            "stars": 6079
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -334,8 +354,9 @@
             "last_commit": "2026-08-25T21:00:04Z",
             "owner": "extism",
             "repo": "extism",
-            "stars": 5739
-          }
+            "stars": 5743
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -349,8 +370,9 @@
             "last_commit": "2026-06-24T16:28:22Z",
             "owner": "trailofbits",
             "repo": "manticore",
-            "stars": 3857
-          }
+            "stars": 3858
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -365,7 +387,8 @@
             "owner": "WAVM",
             "repo": "WAVM",
             "stars": 2775
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -380,7 +403,8 @@
             "owner": "go-interpreter",
             "repo": "wagon",
             "stars": 898
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -395,7 +419,8 @@
             "owner": "cretz",
             "repo": "asmble",
             "stars": 659
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -410,7 +435,8 @@
             "owner": "Xe",
             "repo": "olin",
             "stars": 523
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -425,7 +451,8 @@
             "owner": "libraries",
             "repo": "pywasm",
             "stars": 517
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -440,7 +467,8 @@
             "owner": "kanaka",
             "repo": "wac",
             "stars": 492
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -454,8 +482,9 @@
             "last_commit": "2026-08-27T00:29:55Z",
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 322
-          }
+            "stars": 323
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -470,7 +499,8 @@
             "owner": "wasmx",
             "repo": "fizzy",
             "stars": 241
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -485,7 +515,8 @@
             "owner": "piranna",
             "repo": "wasmachine",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -500,7 +531,8 @@
             "owner": "ethereum",
             "repo": "py-wasm",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -515,7 +547,8 @@
             "owner": "embly",
             "repo": "embly",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -530,7 +563,8 @@
             "owner": "kanaka",
             "repo": "warpy",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -545,7 +579,8 @@
             "owner": "gballet",
             "repo": "windtrap",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -560,7 +595,8 @@
             "owner": "poemm",
             "repo": "pywebassembly",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         }
       ],
       "title": "Non-Web Embeddings"
@@ -583,7 +619,8 @@
                 "owner": "tantaraio",
                 "repo": "voy",
                 "stars": 1071
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -605,7 +642,8 @@
                 "owner": "vmware-labs",
                 "repo": "mod_wasm",
                 "stars": 114
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -623,11 +661,12 @@
                 "archived": false,
                 "id": 114466145,
                 "language": "Rust",
-                "last_commit": "2026-08-26T11:34:17Z",
+                "last_commit": "2026-08-28T03:19:43Z",
                 "owner": "yewstack",
                 "repo": "yew",
-                "stars": 32787
-              }
+                "stars": 32789
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -641,8 +680,9 @@
                 "last_commit": "2026-08-26T21:31:56Z",
                 "owner": "perspective-dev",
                 "repo": "perspective",
-                "stars": 11135
-              }
+                "stars": 11139
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -657,7 +697,8 @@
                 "owner": "mbasso",
                 "repo": "asm-dom",
                 "stars": 2823
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -672,7 +713,8 @@
                 "owner": "lastmjs",
                 "repo": "zwitterion",
                 "stars": 593
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -687,7 +729,8 @@
                 "owner": "lume",
                 "repo": "asdom",
                 "stars": 111
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -702,7 +745,8 @@
                 "owner": "mfrachet",
                 "repo": "go-vdom-wasm",
                 "stars": 83
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -724,7 +768,8 @@
                 "owner": "fiatjaf",
                 "repo": "jq-web",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -746,7 +791,8 @@
                 "owner": "kripken",
                 "repo": "ammo.js",
                 "stars": 4558
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -761,7 +807,8 @@
                 "owner": "lume",
                 "repo": "glas",
                 "stars": 939
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -776,7 +823,8 @@
                 "owner": "leefsmp",
                 "repo": "Particle-System",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -798,7 +846,8 @@
                 "owner": "ballercat",
                 "repo": "wasm-loader",
                 "stars": 641
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -813,7 +862,8 @@
                 "owner": "only-cliches",
                 "repo": "cpp-wasm-loader",
                 "stars": 133
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -835,7 +885,8 @@
                 "owner": "browserify",
                 "repo": "rustify",
                 "stars": 492
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -857,7 +908,8 @@
                 "owner": "dcodeIO",
                 "repo": "webassembly",
                 "stars": 806
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -872,7 +924,8 @@
                 "owner": "raphamorim",
                 "repo": "xwasm",
                 "stars": 55
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -887,7 +940,8 @@
                 "owner": "mfrachet",
                 "repo": "go-wasm-cli",
                 "stars": 40
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -902,7 +956,8 @@
                 "owner": "ashleygwilliams",
                 "repo": "wasm-pack",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -920,11 +975,12 @@
                 "archived": false,
                 "id": 132453438,
                 "language": "C#",
-                "last_commit": "2026-08-27T20:09:15Z",
+                "last_commit": "2026-08-28T20:07:00Z",
                 "owner": "unoplatform",
                 "repo": "uno",
-                "stars": 10021
-              }
+                "stars": 10020
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -939,7 +995,8 @@
                 "owner": "praeclarum",
                 "repo": "Ooui",
                 "stars": 1621
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -961,7 +1018,8 @@
                 "owner": "jussiniinikoski",
                 "repo": "wasm-pdf",
                 "stars": 501
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -976,7 +1034,8 @@
                 "owner": "eunomia-bpf",
                 "repo": "wasm-bpf",
                 "stars": 442
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -991,7 +1050,8 @@
                 "owner": "antelle",
                 "repo": "argon2-browser",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1006,7 +1066,8 @@
                 "owner": "dmlc",
                 "repo": "mxnet.js",
                 "stars": 433
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1021,7 +1082,8 @@
                 "owner": "hullarb",
                 "repo": "ssheasy",
                 "stars": 412
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1036,7 +1098,8 @@
                 "owner": "GoogleChromeLabs",
                 "repo": "webm-wasm",
                 "stars": 408
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1051,7 +1114,8 @@
                 "owner": "athre0z",
                 "repo": "wasm",
                 "stars": 267
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1066,7 +1130,8 @@
                 "owner": "originjs",
                 "repo": "crypto-js-wasm",
                 "stars": 249
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1081,7 +1146,8 @@
                 "owner": "shamadee",
                 "repo": "wasm-init",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1096,7 +1162,8 @@
                 "owner": "kwonoj",
                 "repo": "cld3-asm",
                 "stars": 82
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1111,7 +1178,8 @@
                 "owner": "kwonoj",
                 "repo": "hunspell-asm",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1126,7 +1194,8 @@
                 "owner": "sola-st",
                 "repo": "WasmBench",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1141,7 +1210,8 @@
                 "owner": "Becavalier",
                 "repo": "Eufa",
                 "stars": 30
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1156,7 +1226,8 @@
                 "owner": "alexcrichton",
                 "repo": "wasm-bindgen",
                 "stars": 25
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1184,7 +1255,8 @@
                 "owner": "serprex",
                 "repo": "Befunge",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1206,7 +1278,8 @@
                 "owner": "remko",
                 "repo": "waforth",
                 "stars": 590
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1224,11 +1297,12 @@
                 "archived": false,
                 "id": 23096959,
                 "language": "Go",
-                "last_commit": "2026-08-27T19:40:00Z",
+                "last_commit": "2026-08-28T21:09:07Z",
                 "owner": "golang",
                 "repo": "go",
-                "stars": 136547
-              }
+                "stars": 136558
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1250,7 +1324,8 @@
                 "owner": "AssemblyScript",
                 "repo": "assemblyscript",
                 "stars": 17993
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1265,7 +1340,8 @@
                 "owner": "01alchemist",
                 "repo": "TurboScript",
                 "stars": 494
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1280,7 +1356,8 @@
                 "owner": "MichaReiser",
                 "repo": "speedy.js",
                 "stars": 342
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1302,7 +1379,8 @@
                 "owner": "vvanders",
                 "repo": "wasm_lua",
                 "stars": 803
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1317,7 +1395,8 @@
                 "owner": "ceifa",
                 "repo": "wasmoon",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1339,7 +1418,8 @@
                 "owner": "sebmarkbage",
                 "repo": "ocamlrun-wasm",
                 "stars": 257
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1354,7 +1434,8 @@
                 "owner": "remixlabs",
                 "repo": "wasicaml",
                 "stars": 135
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1369,7 +1450,8 @@
                 "owner": "OCamlPro",
                 "repo": "wasocaml",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1390,8 +1472,9 @@
                 "last_commit": "2026-08-27T00:34:08Z",
                 "owner": "pyodide",
                 "repo": "pyodide",
-                "stars": 14804
-              }
+                "stars": 14803
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1406,7 +1489,8 @@
                 "owner": "almarklein",
                 "repo": "rocket_rust_py",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1424,11 +1508,12 @@
                 "archived": false,
                 "id": 21938243,
                 "language": "Rust",
-                "last_commit": "2026-08-27T18:15:02Z",
+                "last_commit": "2026-08-28T11:12:13Z",
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59003
-              }
+                "stars": 59028
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1439,11 +1524,12 @@
                 "archived": false,
                 "id": 183483988,
                 "language": "Rust",
-                "last_commit": "2026-08-27T19:07:36Z",
+                "last_commit": "2026-08-28T20:10:38Z",
                 "owner": "ruffle-rs",
                 "repo": "ruffle",
-                "stars": 18460
-              }
+                "stars": 18464
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1454,11 +1540,12 @@
                 "archived": false,
                 "id": 118469706,
                 "language": "Rust",
-                "last_commit": "2026-08-11T21:23:31Z",
+                "last_commit": "2026-08-28T10:49:21Z",
                 "owner": "wasmi-labs",
                 "repo": "wasmi",
-                "stars": 2176
-              }
+                "stars": 2177
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1473,7 +1560,8 @@
                 "owner": "paritytech",
                 "repo": "parity-wasm",
                 "stars": 395
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1495,7 +1583,8 @@
                 "owner": "ballercat",
                 "repo": "walt",
                 "stars": 4631
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1510,7 +1599,8 @@
                 "owner": "tmcw",
                 "repo": "wah",
                 "stars": 159
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1525,7 +1615,8 @@
                 "owner": "kanaka",
                 "repo": "wam",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1547,7 +1638,8 @@
                 "owner": "never-lang",
                 "repo": "never",
                 "stars": 461
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1562,7 +1654,8 @@
                 "owner": "lys-lang",
                 "repo": "lys",
                 "stars": 429
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1590,7 +1683,8 @@
                 "owner": "rhysd",
                 "repo": "vim-wasm",
                 "stars": 85
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1611,8 +1705,9 @@
                 "last_commit": "2026-08-27T07:26:02Z",
                 "owner": "WebAssembly",
                 "repo": "wabt",
-                "stars": 8104
-              }
+                "stars": 8105
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1626,8 +1721,9 @@
                 "last_commit": "2026-08-27T00:29:55Z",
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 322
-              }
+                "stars": 323
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1642,7 +1738,8 @@
                 "owner": "mafintosh",
                 "repo": "webassembly-binary-toolkit",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1668,7 +1765,8 @@
             "owner": "torch2424",
             "repo": "wasmboy",
             "stars": 1498
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1683,7 +1781,8 @@
             "owner": "shamadee",
             "repo": "web-dsp",
             "stars": 1483
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1698,7 +1797,8 @@
             "owner": "mdn",
             "repo": "webassembly-examples",
             "stars": 1211
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1712,8 +1812,9 @@
             "last_commit": "2025-08-04T18:57:27Z",
             "owner": "raphamorim",
             "repo": "gameboy",
-            "stars": 891
-          }
+            "stars": 892
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1728,7 +1829,8 @@
             "owner": "joamag",
             "repo": "boytacean",
             "stars": 679
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1743,7 +1845,8 @@
             "owner": "jacobdeichert",
             "repo": "wasm-astar",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1758,7 +1861,8 @@
             "owner": "sessamekesh",
             "repo": "wasm-3d-animation-demo",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1773,7 +1877,8 @@
             "owner": "reklatsmasters",
             "repo": "webassembly-examples",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1788,7 +1893,8 @@
             "owner": "ColinEberhardt",
             "repo": "d3-wasm-force",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1803,7 +1909,8 @@
             "owner": "lukka",
             "repo": "CppOpenGLWebAssemblyCMake",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1818,7 +1925,8 @@
             "owner": "XD-DENG",
             "repo": "handytools-go-webassembly",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1833,7 +1941,8 @@
             "owner": "bzar",
             "repo": "wasm-intro",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         },
         {
           "node_type": "item",
@@ -1848,7 +1957,8 @@
             "owner": "ragingwind",
             "repo": "wasm-hnpwa",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         }
       ],
       "title": "Examples"
@@ -1869,7 +1979,8 @@
             "owner": "sunfishcode",
             "repo": "wasm-reference-manual",
             "stars": 612
-          }
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         }
       ],
       "title": "Books"
@@ -1889,8 +2000,9 @@
             "last_commit": "2026-08-26T22:07:09Z",
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3441
-          }
+            "stars": 3443
+          },
+          "first_seen": "2026-08-28T21:28:37.066Z"
         }
       ],
       "title": "Papers"
@@ -1913,7 +2025,8 @@
                 "owner": "3dgen",
                 "repo": "cppwasm-book",
                 "stars": 1401
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1928,7 +2041,8 @@
                 "owner": "wasmlang",
                 "repo": "awesome-wasm-zh",
                 "stars": 1035
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             },
             {
               "node_type": "item",
@@ -1943,7 +2057,8 @@
                 "owner": "wasmlang",
                 "repo": "awesome-wasm-zh",
                 "stars": 1035
-              }
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
             }
           ],
           "description": null,
@@ -1955,7 +2070,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:04:42.617Z",
+    "last_updated": "2026-08-28T21:28:37.066Z",
     "original_repository_info": {
       "archived": false,
       "id": 89355243,

@@ -111,11 +111,11 @@
             "id": 136505169,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T14:05:48Z",
-            "open_issues": 554,
+            "last_commit": "2026-09-12T13:05:13Z",
+            "open_issues": 556,
             "owner": "tinygo-org",
             "repo": "tinygo",
-            "stars": 17720,
+            "stars": 17721,
             "topics": [
               "adafruit",
               "arduino",
@@ -152,11 +152,11 @@
             "id": 45208608,
             "language": "WebAssembly",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T22:42:12Z",
+            "last_commit": "2026-09-12T00:01:56Z",
             "open_issues": 569,
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8622,
+            "stars": 8623,
             "topics": [
               "c-plus-plus",
               "compilers",
@@ -329,7 +329,7 @@
                 "open_issues": 19,
                 "owner": "wasmerio",
                 "repo": "wasmer-php",
-                "stars": 1051,
+                "stars": 1050,
                 "topics": [
                   "php",
                   "php-extension",
@@ -405,10 +405,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-11T08:48:35Z",
-            "open_issues": 272,
+            "open_issues": 270,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21025,
+            "stars": 21026,
             "topics": [
               "emscripten",
               "linux",
@@ -436,11 +436,11 @@
             "id": 101767772,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T14:49:56Z",
-            "open_issues": 847,
+            "last_commit": "2026-09-11T19:23:15Z",
+            "open_issues": 849,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18618,
+            "stars": 18624,
             "topics": [
               "aot",
               "cranelift",
@@ -471,8 +471,8 @@
             "id": 224908244,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T14:52:32Z",
-            "open_issues": 160,
+            "last_commit": "2026-09-12T06:19:43Z",
+            "open_issues": 159,
             "owner": "WasmEdge",
             "repo": "WasmEdge",
             "stars": 10802,
@@ -508,11 +508,11 @@
             "id": 45208608,
             "language": "WebAssembly",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-10T22:42:12Z",
+            "last_commit": "2026-09-12T00:01:56Z",
             "open_issues": 569,
             "owner": "WebAssembly",
             "repo": "binaryen",
-            "stars": 8622,
+            "stars": 8623,
             "topics": [
               "c-plus-plus",
               "compilers",
@@ -539,7 +539,7 @@
             "open_issues": 241,
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8125,
+            "stars": 8126,
             "topics": [
               "webassembly"
             ]
@@ -562,7 +562,7 @@
             "open_issues": 18,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8024,
+            "stars": 8025,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -597,7 +597,7 @@
             "open_issues": 601,
             "owner": "wasm-micro-runtime",
             "repo": "wasm-micro-runtime",
-            "stars": 6086,
+            "stars": 6088,
             "topics": [
               "aot",
               "assembly-script",
@@ -708,7 +708,7 @@
             "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2776,
+            "stars": 2777,
             "topics": []
           },
           "first_seen": "2026-08-28T21:28:37.066Z"
@@ -1163,7 +1163,7 @@
                 "open_issues": 119,
                 "owner": "yewstack",
                 "repo": "yew",
-                "stars": 32802,
+                "stars": 32799,
                 "topics": [
                   "asmjs",
                   "concurrency",
@@ -1198,7 +1198,7 @@
                 "open_issues": 40,
                 "owner": "perspective-dev",
                 "repo": "perspective",
-                "stars": 11184,
+                "stars": 11188,
                 "topics": [
                   "analytics",
                   "bi",
@@ -1661,11 +1661,11 @@
                 "id": 132453438,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T13:05:09Z",
-                "open_issues": 1689,
+                "last_commit": "2026-09-12T00:39:55Z",
+                "open_issues": 1693,
                 "owner": "unoplatform",
                 "repo": "uno",
-                "stars": 10048,
+                "stars": 10049,
                 "topics": [
                   "android",
                   "c-sharp",
@@ -1873,7 +1873,7 @@
                 "open_issues": 34,
                 "owner": "GoogleChromeLabs",
                 "repo": "webm-wasm",
-                "stars": 408,
+                "stars": 409,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:37.066Z"
@@ -1983,6 +1983,30 @@
             },
             {
               "node_type": "item",
+              "title": "WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and other sources. Useful as test data, to study WebAssembly, for training machine learning models, and much more.",
+                "homepage": null,
+                "id": 316256044,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2022-07-20T07:00:37Z",
+                "open_issues": 1,
+                "owner": "sola-st",
+                "repo": "WasmBench",
+                "stars": 76,
+                "topics": [
+                  "dataset",
+                  "webassembly"
+                ]
+              },
+              "first_seen": "2026-08-28T21:28:37.066Z"
+            },
+            {
+              "node_type": "item",
               "title": "hunspell-asm - Wasm based JS binding for Hunspell spellchecker",
               "description": null,
               "children": [],
@@ -2005,30 +2029,6 @@
                   "spellchecker",
                   "typescript",
                   "wasm",
-                  "webassembly"
-                ]
-              },
-              "first_seen": "2026-08-28T21:28:37.066Z"
-            },
-            {
-              "node_type": "item",
-              "title": "WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and other sources. Useful as test data, to study WebAssembly, for training machine learning models, and much more.",
-                "homepage": null,
-                "id": 316256044,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2022-07-20T07:00:37Z",
-                "open_issues": 1,
-                "owner": "sola-st",
-                "repo": "WasmBench",
-                "stars": 75,
-                "topics": [
-                  "dataset",
                   "webassembly"
                 ]
               },
@@ -2179,11 +2179,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-11T14:53:18Z",
-                "open_issues": 10168,
+                "last_commit": "2026-09-12T03:29:33Z",
+                "open_issues": 10119,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 138415,
+                "stars": 138434,
                 "topics": [
                   "go",
                   "golang",
@@ -2429,7 +2429,7 @@
                 "open_issues": 400,
                 "owner": "pyodide",
                 "repo": "pyodide",
-                "stars": 14827,
+                "stars": 14826,
                 "topics": [
                   "emscripten",
                   "pyodide",
@@ -2480,11 +2480,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-09-10T10:07:46Z",
-                "open_issues": 10,
+                "last_commit": "2026-09-12T12:41:36Z",
+                "open_issues": 12,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59293,
+                "stars": 59309,
                 "topics": [
                   "awesome",
                   "rust"
@@ -2504,11 +2504,11 @@
                 "id": 183483988,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-11T14:57:33Z",
-                "open_issues": 5616,
+                "last_commit": "2026-09-12T00:13:11Z",
+                "open_issues": 5617,
                 "owner": "ruffle-rs",
                 "repo": "ruffle",
-                "stars": 18514,
+                "stars": 18511,
                 "topics": [
                   "emulator",
                   "flash",
@@ -2536,7 +2536,7 @@
                 "open_issues": 31,
                 "owner": "wasmi-labs",
                 "repo": "wasmi",
-                "stars": 2297,
+                "stars": 2299,
                 "topics": [
                   "embedded",
                   "interpreter",
@@ -2784,7 +2784,7 @@
                 "open_issues": 241,
                 "owner": "WebAssembly",
                 "repo": "wabt",
-                "stars": 8125,
+                "stars": 8126,
                 "topics": [
                   "webassembly"
                 ]
@@ -3251,11 +3251,11 @@
             "id": 40598815,
             "language": "WebAssembly",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-09T09:04:07Z",
-            "open_issues": 96,
+            "last_commit": "2026-09-11T15:41:33Z",
+            "open_issues": 95,
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3451,
+            "stars": 3452,
             "topics": [
               "specification"
             ]
@@ -3363,7 +3363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T15:08:14.509Z",
+    "last_updated": "2026-09-12T14:16:29.160Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.",
@@ -3375,7 +3375,7 @@
       "open_issues": 98,
       "owner": "mbasso",
       "repo": "awesome-wasm",
-      "stars": 9636,
+      "stars": 9637,
       "topics": [
         "awesome",
         "awesome-list",

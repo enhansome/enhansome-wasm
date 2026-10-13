@@ -98,9 +98,9 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Compilers
 
-* [AssemblyScript - Definitely not a TypeScript to WebAssembly compiler](https://github.com/AssemblyScript/assemblyscript) ⭐ 18,029 | 🐛 213 | 🌐 WebAssembly | 📅 2026-09-14
-* [TinyGo - Go for embedded devices and WebAssembly.  Creates very small .wasm files.](https://github.com/aykevl/tinygo) ⭐ 17,810 | 🐛 559 | 🌐 Go | 📅 2026-10-12
-* [Binaryen - Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++](https://github.com/WebAssembly/binaryen) ⭐ 8,656 | 🐛 580 | 🌐 WebAssembly | 📅 2026-10-12
+* [AssemblyScript - Definitely not a TypeScript to WebAssembly compiler](https://github.com/AssemblyScript/assemblyscript) ⭐ 18,030 | 🐛 213 | 🌐 WebAssembly | 📅 2026-09-14
+* [TinyGo - Go for embedded devices and WebAssembly.  Creates very small .wasm files.](https://github.com/aykevl/tinygo) ⭐ 17,812 | 🐛 566 | 🌐 Go | 📅 2026-10-13
+* [Binaryen - Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++](https://github.com/WebAssembly/binaryen) ⭐ 8,658 | 🐛 580 | 🌐 WebAssembly | 📅 2026-10-13
 * [Asterius - A Haskell to WebAssembly compiler](https://github.com/tweag/asterius) ⚠️ Archived
 * [Bytecoder - A Rich Domain Model for Java Bytecode and Framework to interpret and transpile it to other languages such as JavaScript, OpenCL or WebAssembly](https://github.com/mirkosertic/Bytecoder) ⭐ 961 | 🐛 42 | 🌐 Java | 📅 2026-10-05
 * [ilwasm - CIL to WebAssembly compiler](https://github.com/kg/ilwasm) ⭐ 364 | 🐛 1 | 🌐 C# | 📅 2015-11-02
@@ -112,19 +112,19 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Non-Web Embeddings
 
-* [Wasmer - Standalone JIT WebAssembly Runtime](https://github.com/wasmerio/wasmer) ⭐ 21,149 | 🐛 283 | 🌐 Rust | 📅 2026-10-12
-  * [Wasmer for Go](https://github.com/wasmerio/go-ext-wasm) ⭐ 2,948 | 🐛 79 | 🌐 Go | 📅 2025-02-01
-  * [Wasmer for Python](https://github.com/wasmerio/python-ext-wasm) ⭐ 2,159 | 🐛 73 | 🌐 Rust | 📅 2023-09-17
+* [Wasmer - Standalone JIT WebAssembly Runtime](https://github.com/wasmerio/wasmer) ⭐ 21,152 | 🐛 284 | 🌐 Rust | 📅 2026-10-13
+  * [Wasmer for Go](https://github.com/wasmerio/go-ext-wasm) ⭐ 2,949 | 🐛 80 | 🌐 Go | 📅 2025-02-01
+  * [Wasmer for Python](https://github.com/wasmerio/python-ext-wasm) ⭐ 2,160 | 🐛 73 | 🌐 Rust | 📅 2023-09-17
   * [Wasmer for PHP](https://github.com/wasmerio/php-ext-wasm) ⭐ 1,049 | 🐛 19 | 🌐 PHP | 📅 2024-02-27
-  * [Wasmer for Ruby](https://github.com/wasmerio/ruby-ext-wasm) ⭐ 489 | 🐛 20 | 🌐 Rust | 📅 2026-04-22
+  * [Wasmer for Ruby](https://github.com/wasmerio/ruby-ext-wasm) ⭐ 490 | 🐛 20 | 🌐 Rust | 📅 2026-04-22
   * [Wasmer for Postgres](https://github.com/wasmerio/postgres-ext-wasm) ⭐ 429 | 🐛 3 | 🌐 Rust | 📅 2020-12-10
-* [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime) ⭐ 18,713 | 🐛 862 | 🌐 Rust | 📅 2026-10-12
-* [SSVM - WebAssembly Virtual Machine for AI and Blockchain applications](https://github.com/second-state/SSVM) ⭐ 10,826 | 🐛 153 | 🌐 C++ | 📅 2026-10-12
-* [binaryen - WebAssembly toolkit and interpreter written in C++](https://github.com/webassembly/binaryen) ⭐ 8,656 | 🐛 580 | 🌐 WebAssembly | 📅 2026-10-12
-* [wabt - WebAssembly toolkit and interpreter written in C++](https://github.com/webassembly/wabt) ⭐ 8,154 | 🐛 235 | 🌐 C++ | 📅 2026-10-11
-* [wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa)](https://github.com/wasm3/wasm3) ⭐ 8,047 | 🐛 18 | 🌐 C | 📅 2026-09-30
-* [wamr - WebAssembly Micro Runtime (WAMR) is an AOT/JIT/interpreter focusing on small footprint](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,137 | 🐛 630 | 🌐 C | 📅 2026-10-09
-* [Extism - the universal plug-in system to make your software programmable](https://github.com/extism/extism) ⭐ 5,793 | 🐛 56 | 🌐 Rust | 📅 2026-10-09
+* [wasmtime - Standalone WebAssembly Runtime](https://github.com/CraneStation/wasmtime) ⭐ 18,717 | 🐛 860 | 🌐 Rust | 📅 2026-10-13
+* [SSVM - WebAssembly Virtual Machine for AI and Blockchain applications](https://github.com/second-state/SSVM) ⭐ 10,828 | 🐛 160 | 🌐 C++ | 📅 2026-10-13
+* [binaryen - WebAssembly toolkit and interpreter written in C++](https://github.com/webassembly/binaryen) ⭐ 8,658 | 🐛 580 | 🌐 WebAssembly | 📅 2026-10-13
+* [wabt - WebAssembly toolkit and interpreter written in C++](https://github.com/webassembly/wabt) ⭐ 8,157 | 🐛 237 | 🌐 C++ | 📅 2026-10-11
+* [wasm3 - The fastest WebAssembly interpreter (x86, x64, ARM, MIPS, Xtensa)](https://github.com/wasm3/wasm3) ⭐ 8,049 | 🐛 18 | 🌐 C | 📅 2026-09-30
+* [wamr - WebAssembly Micro Runtime (WAMR) is an AOT/JIT/interpreter focusing on small footprint](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,139 | 🐛 630 | 🌐 C | 📅 2026-10-09
+* [Extism - the universal plug-in system to make your software programmable](https://github.com/extism/extism) ⭐ 5,794 | 🐛 56 | 🌐 Rust | 📅 2026-10-09
 * [Manticore - Symbolic execution engine with support for WebAssembly](https://github.com/trailofbits/manticore) ⚠️ Archived
 * [WAVM - WebAssembly virtual machine, designed for use in non-web applications](https://github.com/WAVM/WAVM) ⭐ 2,783 | 🐛 29 | 🌐 C++ | 📅 2026-04-05
 * [wagon - WebAssembly interpter written in Go](https://github.com/go-interpreter/wagon) ⚠️ Archived
@@ -132,7 +132,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [Olin - WebAssembly on the server](https://github.com/Xe/olin) ⭐ 523 | 🐛 19 | 🌐 Go | 📅 2024-06-10
 * [pywasm - WebAssembly interpreter written in pure Python.](https://github.com/mohanson/pywasm) ⭐ 518 | 🐛 0 | 🌐 WebAssembly | 📅 2026-09-18
 * [wac - WebAssembly in C (x86)](https://github.com/kanaka/wac) ⭐ 494 | 🐛 14 | 🌐 C | 📅 2024-08-09
-* [Owi - a Wasm interpreter written in OCaml](https://github.com/OCamlPro/owi) ⭐ 325 | 🐛 161 | 🌐 OCaml | 📅 2026-10-06
+* [Owi - a Wasm interpreter written in OCaml](https://github.com/OCamlPro/owi) ⭐ 326 | 🐛 161 | 🌐 OCaml | 📅 2026-10-13
 * [fizzy - Fast, deterministic, and pedantic WebAssembly interpreter written in clean C++17](https://github.com/wasmx/fizzy) ⭐ 240 | 🐛 64 | 🌐 C++ | 📅 2025-11-10
 * [wasmachine - WebAssembly in a FPGA](https://github.com/piranna/wasmachine) ⭐ 215 | 🐛 3 | 🌐 Verilog | 📅 2017-11-03
 * [py-wasm - WebAssembly interpreter written in pure Python](https://github.com/ethereum/py-wasm) ⚠️ Archived
@@ -154,8 +154,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Web frameworks-libraries
 
-* [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew) ⭐ 32,821 | 🐛 122 | 🌐 Rust | 📅 2026-10-09
-* [Perspective - Streaming pivot visualization via WebAssembly](https://github.com/jpmorganchase/perspective) ⭐ 11,286 | 🐛 39 | 🌐 Rust | 📅 2026-10-12
+* [Yew - Rust framework for making client web apps](https://github.com/DenisKolodin/yew) ⭐ 32,820 | 🐛 122 | 🌐 Rust | 📅 2026-10-09
+* [Perspective - Streaming pivot visualization via WebAssembly](https://github.com/jpmorganchase/perspective) ⭐ 11,293 | 🐛 39 | 🌐 Rust | 📅 2026-10-13
 * [asm-dom - A minimal WebAssembly virtual DOM to build C++ SPA](https://github.com/mbasso/asm-dom) ⭐ 2,826 | 🐛 128 | 🌐 C++ | 📅 2023-03-03
 * [Zwitterion - A web dev server that lets you import anything\*](https://github.com/lastmjs/zwitterion) ⭐ 592 | 🐛 66 | 🌐 TypeScript | 📅 2026-04-29
 * [asdom - DOM bindings for AssemblyScript, write DOM code just like in TypeScript, but compiled to WebAssembly, by LUME](https://github.com/lume/asdom) ⭐ 110 | 🐛 2 | 🌐 TypeScript | 📅 2024-06-16
@@ -183,18 +183,18 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Browserify
 
-* [rustify - Rust WebAssembly transform for Browserify](https://github.com/browserify/rustify) ⭐ 491 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-21
+* [rustify - Rust WebAssembly transform for Browserify](https://github.com/browserify/rustify) ⭐ 492 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-21
 
 ### Node.js
 
 * [webassembly - A minimal toolkit and runtime to produce and run WebAssembly modules.](https://github.com/dcodeIO/webassembly) ⭐ 806 | 🐛 15 | 🌐 C | 📅 2019-11-01
 * [xwasm - WebAssembly Packager and WASM tooling for modern frontend](https://github.com/raphamorim/xwasm) ⭐ 55 | 🐛 26 | 🌐 JavaScript | 📅 2023-01-04
 * [go-wasm-cli - Minimalistic cli to create and run (with hot reload) Go application targeting WASM](https://github.com/mfrachet/go-wasm-cli) ⭐ 40 | 🐛 3 | 🌐 JavaScript | 📅 2022-12-03
-* [wasm-pack - pack up the wasm and publish it to npm!](https://github.com/ashleygwilliams/wasm-pack) ⭐ 4 | 🐛 0 | 🌐 Rust | 📅 2023-09-28
+* [wasm-pack - pack up the wasm and publish it to npm!](https://github.com/ashleygwilliams/wasm-pack) ⭐ 5 | 🐛 0 | 🌐 Rust | 📅 2023-09-28
 
 ### .NET
 
-* [Uno Platform - An implementation of Microsoft's UWP APIs for iOS/Android/WebAssembly/Linux/macOS, using C#/XAML on top of mono-wasm](https://github.com/nventive/Uno) ⭐ 10,078 | 🐛 1,989 | 🌐 C# | 📅 2026-10-12
+* [Uno Platform - An implementation of Microsoft's UWP APIs for iOS/Android/WebAssembly/Linux/macOS, using C#/XAML on top of mono-wasm](https://github.com/nventive/Uno) ⭐ 10,079 | 🐛 1,989 | 🌐 C# | 📅 2026-10-13
 * [Ooui.Wasm - A Xamarin.Forms backend for WebAssembly, using C#/XAML on top of mono-wasm](https://github.com/praeclarum/Ooui) ⭐ 1,620 | 🐛 110 | 🌐 C# | 📅 2022-12-07
 
 ### Others
@@ -203,12 +203,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [wasm-bpf - A WebAssembly eBPF library, toolchain and runtime to help you build eBPF programs to Wasm and run in kernel.](https://github.com/eunomia-bpf/wasm-bpf) ⭐ 449 | 🐛 5 | 🌐 Rust | 📅 2026-09-04
 * [Argon2 in browser - Argon2 library compiled for browser runtime](https://github.com/antelle/argon2-browser) ⭐ 437 | 🐛 20 | 🌐 JavaScript | 📅 2023-03-24
 * [MXnet.js - ASM.js build of MXNet, deep learning (neural nets and so) library](https://github.com/dmlc/mxnet.js/) ⭐ 433 | 🐛 8 | 🌐 JavaScript | 📅 2020-10-11
-* [ssheasy - An online ssh and sft client](https://github.com/hullarb/ssheasy) ⭐ 417 | 🐛 3 | 🌐 Go | 📅 2026-02-23
+* [ssheasy - An online ssh and sft client](https://github.com/hullarb/ssheasy) ⭐ 418 | 🐛 3 | 🌐 Go | 📅 2026-02-23
 * [webm-wasm - Create webm videos in JavaScript via WebAssembly](https://github.com/GoogleChromeLabs/webm-wasm) ⚠️ Archived
 * [wasm - Python WebAssembly decoder & disassembler library](https://github.com/athre0z/wasm) ⚠️ Archived
 * [crypto-js-wasm - An alternate to crypto-js implemented with WebAssembly and ESM](https://github.com/originjs/crypto-js-wasm) ⭐ 249 | 🐛 7 | 🌐 JavaScript | 📅 2024-07-11
 * [wasm-init - Work environment and code generator for WebAssembly projects](https://github.com/shamadee/wasm-init) ⭐ 170 | 🐛 5 | 🌐 JavaScript | 📅 2018-04-03
-* [cld3-asm - Wasm based JS binding for Google compact language detector 3](https://github.com/kwonoj/cld3-asm) ⭐ 82 | 🐛 2 | 🌐 TypeScript | 📅 2023-12-31
+* [cld3-asm - Wasm based JS binding for Google compact language detector 3](https://github.com/kwonoj/cld3-asm) ⭐ 81 | 🐛 2 | 🌐 TypeScript | 📅 2023-12-31
 * [WasmBench - A large dataset of real-world WebAssembly binaries, collected from the Web, GitHub, NPM and more](https://github.com/sola-st/WasmBench) ⭐ 77 | 🐛 1 | 🌐 Python | 📅 2022-07-20
 * [hunspell-asm - Wasm based JS binding for Hunspell spellchecker](https://github.com/kwonoj/hunspell-asm) ⭐ 75 | 🐛 22 | 🌐 TypeScript | 📅 2023-01-14
 * [Eufa - a high efficient utility functions library written in webassembly](https://github.com/becavalier/eufa) ⚠️ Archived
@@ -231,13 +231,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Go
 
-* [Go - Go programming language WebAssembly support](https://github.com/golang/go/wiki/WebAssembly) ⭐ 139,228 | 🐛 10,310 | 🌐 Go | 📅 2026-10-12
+* [Go - Go programming language WebAssembly support](https://github.com/golang/go/wiki/WebAssembly) ⭐ 139,319 | 🐛 10,326 | 🌐 Go | 📅 2026-10-13
 * [Compiling Go to WebAssembly](https://www.sitepen.com/blog/compiling-go-to-webassembly/)
 * [VueGo -  WebAssembly Vue.js wrapper written in Go](https://gitlab.com/AndrusGerman/vuego)
 
 ### JavaScript-family
 
-* [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/AssemblyScript/assemblyscript) ⭐ 18,029 | 🐛 213 | 🌐 WebAssembly | 📅 2026-09-14
+* [AssemblyScript - A subset of TypeScript that compiles to WebAssembly](https://github.com/AssemblyScript/assemblyscript) ⭐ 18,030 | 🐛 213 | 🌐 WebAssembly | 📅 2026-09-14
 * [TurboScript - A TypeScript-like language that compiles to asm.js and WebAssembly (unmaintained)](https://github.com/01alchemist/TurboScript) ⚠️ Archived
 * [speedy.js - Accelerate JavaScript Applications by Compiling to WebAssembly (unmaintained)](https://github.com/MichaReiser/speedy.js) ⚠️ Archived
 * [Getting Started with AssemblyScript](https://www.sitepen.com/blog/getting-started-with-assemblyscript/)
@@ -259,7 +259,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Python
 
-* [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide) ⭐ 14,884 | 🐛 399 | 🌐 Python | 📅 2026-10-05
+* [Pyodide - The Python scientific stack running in the browser](https://github.com/iodide-project/pyodide) ⭐ 14,884 | 🐛 402 | 🌐 Python | 📅 2026-10-05
 * [Rocket game - Rocket, written in Rust, compiled to WASM, running in Python](https://github.com/almarklein/rocket_rust_py/) ⭐ 24 | 🐛 1 | 🌐 WebAssembly | 📅 2023-02-26 (using [PPCI](http://ppci.readthedocs.io))
 * [PyScript - Run Python Code and the scientific stack in the browser](https://github.com/pyscript/)
 * [python-wasm - WebAssembly CPython for Node.js and the browser built using Zig (no emscripten)](https://python-wasm.cocalc.com/)
@@ -270,15 +270,15 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Rust
 
-* [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,808 | 🐛 9 | 🌐 Rust | 📅 2026-10-12 (*has scattered references to targeting WASM*)
-* [Ruffle - Adobe Flash Player emulator written in the Rust](https://github.com/ruffle-rs/ruffle) ⭐ 18,664 | 🐛 5,672 | 🌐 Rust | 📅 2026-10-12
-* [wasmi - WebAssembly interpreter in pure Rust](https://github.com/paritytech/wasmi) ⭐ 2,325 | 🐛 41 | 🌐 Rust | 📅 2026-09-21
+* [awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,833 | 🐛 8 | 🌐 Rust | 📅 2026-10-13 (*has scattered references to targeting WASM*)
+* [Ruffle - Adobe Flash Player emulator written in the Rust](https://github.com/ruffle-rs/ruffle) ⭐ 18,674 | 🐛 5,679 | 🌐 Rust | 📅 2026-10-13
+* [wasmi - WebAssembly interpreter in pure Rust](https://github.com/paritytech/wasmi) ⭐ 2,326 | 🐛 43 | 🌐 Rust | 📅 2026-10-13
 * [parity-wasm - WebAssembly serialization/deserialization library in pure Rust](https://github.com/paritytech/parity-wasm) ⚠️ Archived
 * [Rusty Web](https://davidmcneil.github.io/the-rusty-web/)
 
 ### WASM-like
 
-* [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt) ⭐ 4,631 | 🐛 27 | 🌐 JavaScript | 📅 2023-01-02
+* [Walt - Alternative Syntax for WebAssembly](https://github.com/ballercat/walt) ⭐ 4,632 | 🐛 27 | 🌐 JavaScript | 📅 2023-01-02
 * [wah - a slightly higher-level language superset of webassembly](https://github.com/tmcw/wah) ⭐ 159 | 🐛 0 | 🌐 Clojure | 📅 2019-07-28
 * [wam - Superset of wast syntax that is more convenient for humans to write directly](https://github.com/kanaka/wam) ⭐ 67 | 🐛 0 | 🌐 JavaScript | 📅 2019-08-07
 
@@ -298,8 +298,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Kits
 
-* [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt) ⭐ 8,154 | 🐛 235 | 🌐 C++ | 📅 2026-10-11
-* [Owi - A WebAssembly toolkit and cross-language bug-finder](https://github.com/OCamlPro/owi) ⭐ 325 | 🐛 161 | 🌐 OCaml | 📅 2026-10-06
+* [WABT - A suite of tools that help working with WASM binary files](https://github.com/WebAssembly/wabt) ⭐ 8,157 | 🐛 237 | 🌐 C++ | 📅 2026-10-11
+* [Owi - A WebAssembly toolkit and cross-language bug-finder](https://github.com/OCamlPro/owi) ⭐ 326 | 🐛 161 | 🌐 OCaml | 📅 2026-10-13
 * [webassembly-binary-toolkit - The WABT tools installable as an npm package](https://github.com/mafintosh/webassembly-binary-toolkit) ⭐ 62 | 🐛 5 | 🌐 Shell | 📅 2018-03-04
 
 ## Gists
@@ -313,7 +313,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [wasmBoy - Gameboy Emulator Library written in Web Assembly using AssemblyScript](https://github.com/torch2424/wasmBoy) ⭐ 1,502 | 🐛 88 | 🌐 WebAssembly | 📅 2023-03-04
 * [Web DSP](https://github.com/shamadee/web-dsp) ⭐ 1,484 | 🐛 7 | 🌐 C++ | 📅 2017-06-05
 * [webassembly-examples](https://github.com/mdn/webassembly-examples) ⭐ 1,214 | 🐛 2 | 🌐 WebAssembly | 📅 2026-09-18
-* [Gameboy emulator written in Rust and compiled to WebAssembly](https://github.com/raphamorim/gameboy) ⭐ 894 | 🐛 3 | 🌐 Rust | 📅 2025-08-04
+* [Gameboy emulator written in Rust and compiled to WebAssembly](https://github.com/raphamorim/gameboy) ⭐ 893 | 🐛 3 | 🌐 Rust | 📅 2025-08-04
 * [Boytacean - A fast Game Boy Emulator written in Rust and running in the Browser using WebAssembly](https://github.com/joamag/boytacean) ⭐ 683 | 🐛 19 | 🌐 Rust | 📅 2026-10-06
 * [WebAssembly A\* Pathfinding](https://github.com/jakedeichert/wasm-astar) ⭐ 443 | 🐛 4 | 🌐 Rust | 📅 2023-04-22
 * [WebAssembly vs. JavaScript Animation Demo](https://github.com/sessamekesh/wasm-3d-animation-demo) ⭐ 226 | 🐛 0 | 🌐 TypeScript | 📅 2017-04-25
@@ -435,7 +435,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## Papers
 
-* [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf) ⭐ 3,464 | 🐛 103 | 🌐 WebAssembly | 📅 2026-10-12
+* [Bringing the Web up to Speed with WebAssembly](https://github.com/WebAssembly/spec/blob/master/papers/pldi2017.pdf) ⭐ 3,464 | 🐛 101 | 🌐 WebAssembly | 📅 2026-10-13
 * [The Web Assembles](http://blog.scottlogic.com/ceberhardt/assets/white-papers/the-web-assembles.pdf)
 * [An Empirical Study of Real-World WebAssembly Binaries: Security, Languages, Use Cases](https://dlehmann.eu/publications/WasmBench-www2021.pdf)
 * [Not So Fast: Analyzing the Performance of WebAssembly vs. Native Code](https://www.usenix.org/system/files/atc19-jangda.pdf)
@@ -490,4 +490,4 @@ To the extent possible under law, [Matteo Basso](https://github.com/mbasso) has 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._

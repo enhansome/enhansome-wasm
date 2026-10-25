@@ -88,7 +88,7 @@
             "open_issues": 213,
             "owner": "AssemblyScript",
             "repo": "assemblyscript",
-            "stars": 18029,
+            "stars": 18033,
             "topics": [
               "assemblyscript",
               "compiler",
@@ -111,11 +111,11 @@
             "id": 136505169,
             "language": "Go",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T13:37:55Z",
-            "open_issues": 567,
+            "last_commit": "2026-10-25T14:44:56Z",
+            "open_issues": 560,
             "owner": "tinygo-org",
             "repo": "tinygo",
-            "stars": 17844,
+            "stars": 17848,
             "topics": [
               "adafruit",
               "arduino",
@@ -183,7 +183,7 @@
             "open_issues": 137,
             "owner": "tweag",
             "repo": "asterius",
-            "stars": 1947,
+            "stars": 1948,
             "topics": [
               "compiler",
               "ghc",
@@ -405,10 +405,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-10-23T14:17:37Z",
-            "open_issues": 290,
+            "open_issues": 289,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21190,
+            "stars": 21195,
             "topics": [
               "emscripten",
               "linux",
@@ -437,10 +437,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-24T11:12:03Z",
-            "open_issues": 867,
+            "open_issues": 868,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18755,
+            "stars": 18763,
             "topics": [
               "aot",
               "cranelift",
@@ -472,10 +472,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-22T23:15:19Z",
-            "open_issues": 163,
+            "open_issues": 166,
             "owner": "WasmEdge",
             "repo": "WasmEdge",
-            "stars": 10843,
+            "stars": 10845,
             "topics": [
               "artificial-intelligence",
               "cloud",
@@ -539,7 +539,7 @@
             "open_issues": 250,
             "owner": "WebAssembly",
             "repo": "wabt",
-            "stars": 8176,
+            "stars": 8177,
             "topics": [
               "webassembly"
             ]
@@ -559,10 +559,10 @@
             "language": "C",
             "license": "MIT",
             "last_commit": "2026-09-30T22:02:43Z",
-            "open_issues": 20,
+            "open_issues": 21,
             "owner": "wasm3",
             "repo": "wasm3",
-            "stars": 8063,
+            "stars": 8064,
             "topics": [
               "containers",
               "cosmopolitan",
@@ -594,10 +594,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T09:01:32Z",
-            "open_issues": 649,
+            "open_issues": 650,
             "owner": "wasm-micro-runtime",
             "repo": "wasm-micro-runtime",
-            "stars": 6165,
+            "stars": 6168,
             "topics": [
               "aot",
               "assembly-script",
@@ -633,7 +633,7 @@
             "open_issues": 55,
             "owner": "extism",
             "repo": "extism",
-            "stars": 5812,
+            "stars": 5814,
             "topics": [
               "browser",
               "c",
@@ -708,7 +708,7 @@
             "open_issues": 29,
             "owner": "WAVM",
             "repo": "WAVM",
-            "stars": 2785,
+            "stars": 2786,
             "topics": []
           },
           "first_seen": "2026-08-28T21:28:37.066Z"
@@ -867,7 +867,7 @@
             "open_issues": 159,
             "owner": "OCamlPro",
             "repo": "owi",
-            "stars": 328,
+            "stars": 329,
             "topics": [
               "abstract-interpretation",
               "c",
@@ -1163,7 +1163,7 @@
                 "open_issues": 127,
                 "owner": "yewstack",
                 "repo": "yew",
-                "stars": 32831,
+                "stars": 32834,
                 "topics": [
                   "asmjs",
                   "concurrency",
@@ -1193,11 +1193,11 @@
                 "id": 109291007,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T14:26:11Z",
+                "last_commit": "2026-10-25T03:33:43Z",
                 "open_issues": 32,
                 "owner": "perspective-dev",
                 "repo": "perspective",
-                "stars": 11345,
+                "stars": 11352,
                 "topics": [
                   "analytics",
                   "apache-arrow",
@@ -1395,7 +1395,7 @@
                 "open_issues": 177,
                 "owner": "kripken",
                 "repo": "ammo.js",
-                "stars": 4582,
+                "stars": 4583,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:37.066Z"
@@ -1672,11 +1672,11 @@
                 "id": 132453438,
                 "language": "C#",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T13:25:58Z",
-                "open_issues": 2155,
+                "last_commit": "2026-10-25T00:43:07Z",
+                "open_issues": 2175,
                 "owner": "unoplatform",
                 "repo": "uno",
-                "stars": 10083,
+                "stars": 10085,
                 "topics": [
                   "android",
                   "c-sharp",
@@ -2155,7 +2155,7 @@
                 "open_issues": 8,
                 "owner": "remko",
                 "repo": "waforth",
-                "stars": 592,
+                "stars": 595,
                 "topics": [
                   "compiler",
                   "compilers",
@@ -2190,11 +2190,11 @@
                 "id": 23096959,
                 "language": "Go",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-23T23:02:27Z",
-                "open_issues": 10443,
+                "last_commit": "2026-10-24T20:27:02Z",
+                "open_issues": 10454,
                 "owner": "golang",
                 "repo": "go",
-                "stars": 139506,
+                "stars": 139574,
                 "topics": [
                   "go",
                   "golang",
@@ -2227,7 +2227,7 @@
                 "open_issues": 213,
                 "owner": "AssemblyScript",
                 "repo": "assemblyscript",
-                "stars": 18029,
+                "stars": 18033,
                 "topics": [
                   "assemblyscript",
                   "compiler",
@@ -2336,7 +2336,7 @@
                 "open_issues": 22,
                 "owner": "ceifa",
                 "repo": "wasmoon",
-                "stars": 703,
+                "stars": 704,
                 "topics": [
                   "fengari",
                   "javascript",
@@ -2440,7 +2440,7 @@
                 "open_issues": 407,
                 "owner": "pyodide",
                 "repo": "pyodide",
-                "stars": 14904,
+                "stars": 14907,
                 "topics": [
                   "emscripten",
                   "pyodide",
@@ -2491,11 +2491,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-23T17:21:58Z",
+                "last_commit": "2026-10-25T14:38:30Z",
                 "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 60074,
+                "stars": 60114,
                 "topics": [
                   "awesome",
                   "rust"
@@ -2515,11 +2515,11 @@
                 "id": 183483988,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T00:12:13Z",
-                "open_issues": 5695,
+                "last_commit": "2026-10-25T00:13:58Z",
+                "open_issues": 5696,
                 "owner": "ruffle-rs",
                 "repo": "ruffle",
-                "stars": 18738,
+                "stars": 18748,
                 "topics": [
                   "emulator",
                   "flash",
@@ -2544,10 +2544,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-13T17:32:08Z",
-                "open_issues": 50,
+                "open_issues": 49,
                 "owner": "wasmi-labs",
                 "repo": "wasmi",
-                "stars": 2330,
+                "stars": 2331,
                 "topics": [
                   "cross-platform",
                   "edge-computing",
@@ -2802,7 +2802,7 @@
                 "open_issues": 250,
                 "owner": "WebAssembly",
                 "repo": "wabt",
-                "stars": 8176,
+                "stars": 8177,
                 "topics": [
                   "webassembly"
                 ]
@@ -2825,7 +2825,7 @@
                 "open_issues": 159,
                 "owner": "OCamlPro",
                 "repo": "owi",
-                "stars": 328,
+                "stars": 329,
                 "topics": [
                   "abstract-interpretation",
                   "c",
@@ -2895,10 +2895,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-10-24T14:04:35Z",
-            "open_issues": 13,
+            "open_issues": 12,
             "owner": "kitao",
             "repo": "pyxel",
-            "stars": 18448,
+            "stars": 18455,
             "topics": [
               "game",
               "game-development",
@@ -3311,7 +3311,7 @@
             "open_issues": 103,
             "owner": "WebAssembly",
             "repo": "spec",
-            "stars": 3465,
+            "stars": 3467,
             "topics": [
               "specification"
             ]
@@ -3419,7 +3419,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:43:33.524Z",
+    "last_updated": "2026-10-25T15:00:00.002Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.",
@@ -3428,10 +3428,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-09T05:19:38Z",
-      "open_issues": 124,
+      "open_issues": 123,
       "owner": "mbasso",
       "repo": "awesome-wasm",
-      "stars": 9653,
+      "stars": 9657,
       "topics": [
         "awesome",
         "awesome-list",
